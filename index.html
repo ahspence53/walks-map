@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>West of Scotland Walks – Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>West of Scotland Walks</h1>
+      <p>Choose a year, then select a walk marker to see its route.</p>
+    </div>
+    <button id="clearRoute" type="button">Clear route</button>
+  </header>
+  <nav id="yearControls" aria-label="Show walk markers by year"></nav>
+  <div id="status" role="status">Loading walks…</div>
+  <main id="map" aria-label="Map of walks"></main>
+  <footer>Walk descriptions and links are from the original walk map. Route lines are loaded only when a walk marker is selected.</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
+  <script src="map.js"></script>
+</body>
+</html>

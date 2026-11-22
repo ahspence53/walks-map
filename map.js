@@ -1,0 +1,128 @@
+const map = L.map('map').setView([55.589242, -4.586690], 10);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const statusEl = document.getElementById('status');
+const controlsEl = document.getElementById('yearControls');
+const yearLayers = new Map();
+let activeRoute = null;
+let routeRequest = 0;
+
+function safeText(value) {
+  return String(value ?? '').replace(/[&<>"']/g, ch => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[ch]));
+}
+function safeLink(url, label) {
+  if (!url || !/^https:\/\/[^\s"'<>]+$/i.test(String(url))) return '';
+  return `<a href="${safeText(url)}" target="_blank" rel="noopener noreferrer">${safeText(label)}</a>`;
+}
+function popupHtml(p) {
+  const rows = [
+    ['Date', p.date], ['Distance', p.distance], ['Time', p.time],
+    ['Ascent', p.ascent], ['Descent', p.descent],
+    ['Rating', p.rating], ['Difficulty', p.difficulty]
+  ].filter(([, value]) => value);
+  const rowHtml = rows.map(([label, value]) =>
+    `<div class="popup-row"><strong>${safeText(label)}:</strong> ${safeText(value)}</div>`
+  ).join('');
+  const links = [
+    safeLink(p.walkPage, 'Walk page'),
+    safeLink(p.outdooractive, 'Outdooractive route')
+  ].filter(Boolean).join('');
+  const routeLine = p.walkNumber
+    ? `<div class="route-note">Select this marker to show its GPX track when available.</div>`
+    : '';
+  return `<div class="popup-title">${safeText(p.name)}</div>
+    ${p.description ? `<div>${safeText(p.description)}</div>` : ''}
+    ${rowHtml}<div class="popup-links">${links}</div>${routeLine}`;
+}
+
+function clearRoute() {
+  routeRequest++;
+  if (activeRoute) {
+    map.removeLayer(activeRoute);
+    activeRoute = null;
+  }
+  statusEl.textContent = 'Route cleared. Select a walk marker to display a track.';
+}
+document.getElementById('clearRoute').addEventListener('click', clearRoute);
+
+function showRoute(feature, marker) {
+  const p = feature.properties || {};
+  if (!p.walkNumber) {
+    statusEl.textContent = 'This marker has no walk number to match to a GPX file.';
+    return;
+  }
+  const requestId = ++routeRequest;
+  if (activeRoute) {
+    map.removeLayer(activeRoute);
+    activeRoute = null;
+  }
+  const fileName = `walk-${String(p.walkNumber).padStart(3, '0')}.gpx`;
+  statusEl.textContent = `Loading route for ${p.name}…`;
+
+  const route = new L.GPX(fileName, {
+    async: true,
+    marker_options: {
+      startIconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-icon-start.png',
+      endIconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-icon-end.png',
+      shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-shadow.png'
+    },
+    polyline_options: { color: '#d12d2d', weight: 4, opacity: 0.85 }
+  });
+  route.on('loaded', event => {
+    if (requestId !== routeRequest) return;
+    activeRoute = event.target.addTo(map);
+    map.fitBounds(event.target.getBounds(), { padding: [24, 24] });
+    statusEl.textContent = `Showing GPX route: ${p.name}`;
+    marker.openPopup();
+  });
+  route.on('error', () => {
+    if (requestId !== routeRequest) return;
+    statusEl.textContent = `No GPX file found for ${p.name} yet. The walk marker and its links are still available.`;
+  });
+}
+
+fetch('walks-data.geojson')
+  .then(response => {
+    if (!response.ok) throw new Error(`Could not load walk data (${response.status})`);
+    return response.json();
+  })
+  .then(data => {
+    const years = [...new Set(data.features.map(f => String(f.properties.year)))].sort();
+    let total = 0;
+    years.forEach(year => {
+      const features = data.features.filter(f => String(f.properties.year) === year);
+      const layer = L.geoJSON(features, {
+        pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
+          radius: 7, color: '#8b1e2d', weight: 1.5, fillColor: '#e85b65', fillOpacity: 0.9
+        }),
+        onEachFeature: (feature, marker) => {
+          marker.bindPopup(popupHtml(feature.properties), { maxWidth: 300 });
+          marker.on('click', () => showRoute(feature, marker));
+        }
+      }).addTo(map);
+      yearLayers.set(year, layer);
+      total += features.length;
+
+      const label = document.createElement('label');
+      label.className = 'year-toggle';
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.checked = true;
+      checkbox.addEventListener('change', () => {
+        if (checkbox.checked) layer.addTo(map);
+        else map.removeLayer(layer);
+      });
+      label.append(checkbox, document.createTextNode(`${year} (${features.length})`));
+      controlsEl.appendChild(label);
+    });
+    statusEl.textContent = `${total} walk markers loaded across ${years.length} yearly layers. Select a marker to try its GPX track.`;
+  })
+  .catch(error => {
+    console.error(error);
+    statusEl.textContent = `Map data could not be loaded: ${error.message}`;
+  });
