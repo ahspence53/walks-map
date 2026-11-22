@@ -9,6 +9,7 @@ const controlsEl = document.getElementById('yearControls');
 const yearLayers = new Map();
 let activeRoute = null;
 let routeRequest = 0;
+let allWalksBounds = null;
 
 function safeText(value) {
   return String(value ?? '').replace(/[&<>"']/g, ch => ({
@@ -46,7 +47,13 @@ function clearRoute() {
     map.removeLayer(activeRoute);
     activeRoute = null;
   }
-  statusEl.textContent = 'Route cleared. Select a walk marker to display a track.';
+  // Close the walk popup as well as removing its route.
+  map.closePopup();
+  // Return to the full extent of all walk markers.
+  if (allWalksBounds && allWalksBounds.isValid()) {
+    map.fitBounds(allWalksBounds, { padding: [28, 28], maxZoom: 11 });
+  }
+  statusEl.textContent = 'Route cleared. Showing the full extent of the walk markers.';
 }
 document.getElementById('clearRoute').addEventListener('click', clearRoute);
 
@@ -92,6 +99,12 @@ fetch('walks-data.geojson')
     return response.json();
   })
   .then(data => {
+    // Keep the overall extent of every walk marker, including years hidden by the filters.
+    allWalksBounds = L.geoJSON(data).getBounds();
+    if (allWalksBounds.isValid()) {
+      map.fitBounds(allWalksBounds, { padding: [28, 28], maxZoom: 11 });
+    }
+
     const years = [...new Set(data.features.map(f => String(f.properties.year)))].sort();
     let total = 0;
     years.forEach(year => {
