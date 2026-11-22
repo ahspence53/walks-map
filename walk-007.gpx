@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>WALK 7. Newmilns Darvel And Hills Above Lanfine</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/189656966"/>
+    <time>2026-03-19T09:36:03.288Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>WALK 7. Newmilns Darvel And Hills Above Lanfine</name>
+    <desc>Country walk from Darvel to Newmilns above Lanfine.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.606516" lon="-4.323477">
+        <ele>81.80895</ele>
+        <name>Start</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605865" lon="-4.320595">
+        <ele>83.36252</ele>
+        <name>WP0002</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605683" lon="-4.318921">
+        <ele>79.03687</ele>
+        <name>WP0003</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605586" lon="-4.315252">
+        <ele>76.69805</ele>
+        <name>WP0004</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605029" lon="-4.312136">
+        <ele>86.0372</ele>
+        <name>WP0005</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605261" lon="-4.310713">
+        <ele>84.12813</ele>
+        <name>WP0006</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605823" lon="-4.310018">
+        <ele>78.05517</ele>
+        <name>WP0007</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.606265" lon="-4.308879">
+        <ele>76.89813</ele>
+        <name>WP0008</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.606629" lon="-4.305188">
+        <ele>79.68589</ele>
+        <name>WP0009</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607113" lon="-4.301991">
+        <ele>81.9333</ele>
+        <name>WP0010</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607113" lon="-4.301497">
+        <ele>82.25399</ele>
+        <name>WP0011</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605998" lon="-4.298751">
+        <ele>83.81756</ele>
+        <name>WP0012</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605926" lon="-4.298128">
+        <ele>84.58554</ele>
+        <name>WP0013</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.606289" lon="-4.29609">
+        <ele>85.12508</ele>
+        <name>WP0014</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.606422" lon="-4.293515">
+        <ele>85.51442</ele>
+        <name>WP0015</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.60595" lon="-4.290811">
+        <ele>89.32399</ele>
+        <name>WP0016</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605673" lon="-4.287689">
+        <ele>91.29795</ele>
+        <name>WP0017</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605564" lon="-4.283816">
+        <ele>98.43495</ele>
+        <name>WP0018</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605865" lon="-4.281842">
+        <ele>101.1112</ele>
+        <name>WP0019</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.606144" lon="-4.281912">
+        <ele>97.84559</ele>
+        <name>WP0020</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605865" lon="-4.281842">
+        <ele>101.1112</ele>
+        <name>WP0021</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605837" lon="-4.281338">
+        <ele>102.7826</ele>
+        <name>WP0022</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.604558" lon="-4.280812">
+        <ele>116.62032</ele>
+        <name>WP0023</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603499" lon="-4.284879">
+        <ele>131.55679</ele>
+        <name>WP0024</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600776" lon="-4.283859">
+        <ele>152.71457</ele>
+        <name>WP0025</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600612" lon="-4.284074">
+        <ele>154.88435</ele>
+        <name>WP0026</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600594" lon="-4.285726">
+        <ele>157.16244</ele>
+        <name>WP0027</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600424" lon="-4.28578">
+        <ele>158.23608</ele>
+        <name>WP0028</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599197" lon="-4.285423">
+        <ele>168.67453</ele>
+        <name>WP0029</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599009" lon="-4.285077">
+        <ele>171.54901</ele>
+        <name>WP0030</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599144" lon="-4.284248">
+        <ele>171.19671</ele>
+        <name>WP0031</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.596698" lon="-4.282333">
+        <ele>218.24288</ele>
+        <name>WP0032</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.596187" lon="-4.283454">
+        <ele>227.33748</ele>
+        <name>WP0033</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.594642" lon="-4.289809">
+        <ele>256.02568</ele>
+        <name>WP0034</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.593863" lon="-4.289583">
+        <ele>268.94307</ele>
+        <name>WP0035</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.593344" lon="-4.291377">
+        <ele>269.569</ele>
+        <name>WP0036</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.591766" lon="-4.289181">
+        <ele>299.07178</ele>
+        <name>WP0037</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.588663" lon="-4.288296">
+        <ele>305.67251</ele>
+        <name>WP0038</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.588879" lon="-4.28774">
+        <ele>304.09691</ele>
+        <name>WP0039</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.584675" lon="-4.298988">
+        <ele>282.44063</ele>
+        <name>WP0040</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.583136" lon="-4.313873">
+        <ele>252.1037</ele>
+        <name>WP0041</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.583327" lon="-4.319689">
+        <ele>243.16806</ele>
+        <name>WP0042</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.585631" lon="-4.325782">
+        <ele>236.81887</ele>
+        <name>WP0043</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.58725" lon="-4.331501">
+        <ele>244.288</ele>
+        <name>WP0044</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.587215" lon="-4.332784">
+        <ele>233.38859</ele>
+        <name>WP0045</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.586847" lon="-4.334882">
+        <ele>215.49868</ele>
+        <name>WP0046</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.587226" lon="-4.338206">
+        <ele>198.87048</ele>
+        <name>WP0047</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.587414" lon="-4.338668">
+        <ele>196.5756</ele>
+        <name>WP0048</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.588269" lon="-4.339869">
+        <ele>190.03131</ele>
+        <name>WP0049</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.58896" lon="-4.33973">
+        <ele>191.86032</ele>
+        <name>WP0050</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.590136" lon="-4.340052">
+        <ele>187.06493</ele>
+        <name>WP0051</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.592554" lon="-4.347599">
+        <ele>146.57037</ele>
+        <name>WP0052</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.595878" lon="-4.342873">
+        <ele>142.29424</ele>
+        <name>WP0053</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.596514" lon="-4.34252">
+        <ele>137.31249</ele>
+        <name>WP0054</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.597013" lon="-4.340419">
+        <ele>134.03015</ele>
+        <name>WP0055</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.597367" lon="-4.336795">
+        <ele>122.12411</ele>
+        <name>WP0056</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.597547" lon="-4.336321">
+        <ele>119.13418</ele>
+        <name>WP0057</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599198" lon="-4.336387">
+        <ele>95.74875</ele>
+        <name>WP0058</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600919" lon="-4.337203">
+        <ele>81.76213</ele>
+        <name>WP0059</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.60236" lon="-4.334722">
+        <ele>74.98734</ele>
+        <name>WP0060</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603028" lon="-4.334682">
+        <ele>72.00521</ele>
+        <name>WP0061</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603756" lon="-4.335068">
+        <ele>67.78492</ele>
+        <name>WP0062</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.604077" lon="-4.333759">
+        <ele>68.36296</ele>
+        <name>WP0063</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.605213" lon="-4.330883">
+        <ele>67.23673</ele>
+        <name>WP0064</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607016" lon="-4.32641">
+        <ele>70.03088</ele>
+        <name>WP0065</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607367" lon="-4.326009">
+        <ele>71.34877</ele>
+        <name>WP0066</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607602" lon="-4.323438">
+        <ele>73.08916</ele>
+        <name>WP0067</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607053" lon="-4.323427">
+        <ele>74.50622</ele>
+        <name>WP0068</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.607044" lon="-4.32248">
+        <ele>73.63512</ele>
+        <name>Finish</name>
+        <extensions>
+          <oa:locType>inputWayPoint</oa:locType>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
