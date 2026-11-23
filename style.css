@@ -30,3 +30,34 @@ footer { padding: 7px 12px; font-size: .75rem; color: #687380; background: #fff;
   background: #fff; color: #242424; font-size: 12px; font-weight: 700;
   line-height: 1; box-shadow: 0 1px 4px rgba(0, 0, 0, .35);
 }
+
+/* Walk-number search */
+#walkSearch {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 16px;
+  background: #fff;
+  border-bottom: 1px solid #d9dee5;
+}
+#walkSearch label {
+  font-size: .9rem;
+  font-weight: 600;
+}
+#walkNumberSearch {
+  width: 115px;
+  max-width: 40vw;
+  padding: 7px 9px;
+  border: 1px solid #aeb8c4;
+  border-radius: 7px;
+  font: inherit;
+  font-size: .95rem;
+}
+#walkSearch button {
+  padding: 7px 12px;
+}
+@media (max-width: 420px) {
+  #walkSearch { gap: 6px; }
+  #walkSearch label { width: 100%; }
+}

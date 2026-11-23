@@ -7,6 +7,8 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 const statusEl = document.getElementById('status');
 const controlsEl = document.getElementById('yearControls');
 const yearLayers = new Map();
+const walkMarkers = new Map();
+const yearCheckboxes = new Map();
 let activeRoute = null;
 let routeRequest = 0;
 let allWalksBounds = null;
@@ -56,6 +58,34 @@ function clearRoute() {
   statusEl.textContent = 'Route cleared. Showing the full extent of the walk markers.';
 }
 document.getElementById('clearRoute').addEventListener('click', clearRoute);
+
+document.getElementById('walkSearch').addEventListener('submit', event => {
+  event.preventDefault();
+  const input = document.getElementById('walkNumberSearch');
+  const walkNumber = Number.parseInt(input.value, 10);
+  if (!Number.isInteger(walkNumber) || walkNumber < 1) {
+    statusEl.textContent = 'Please enter a valid walk number.';
+    input.focus();
+    return;
+  }
+
+  const match = walkMarkers.get(walkNumber);
+  if (!match) {
+    statusEl.textContent = `Walk ${walkNumber} was not found in the current map data.`;
+    return;
+  }
+
+  // If its year has been hidden, turn that year back on so the marker is visible.
+  const checkbox = yearCheckboxes.get(match.year);
+  const layer = yearLayers.get(match.year);
+  if (checkbox && layer && !checkbox.checked) {
+    checkbox.checked = true;
+    layer.addTo(map);
+  }
+
+  map.setView(match.marker.getLatLng(), 13);
+  match.marker.fire('click');
+});
 
 function showRoute(feature, marker) {
   const p = feature.properties || {};
@@ -149,6 +179,10 @@ fetch('walks-data.geojson')
         },
         onEachFeature: (feature, marker) => {
           marker.bindPopup(popupHtml(feature.properties), { maxWidth: 300 });
+          const number = feature.properties && feature.properties.walkNumber;
+          if (Number.isInteger(number)) {
+            walkMarkers.set(number, { marker, year });
+          }
           marker.on('click', () => showRoute(feature, marker));
         }
       }).addTo(map);
@@ -164,6 +198,7 @@ fetch('walks-data.geojson')
         if (checkbox.checked) layer.addTo(map);
         else map.removeLayer(layer);
       });
+      yearCheckboxes.set(year, checkbox);
       label.append(checkbox, document.createTextNode(`${year} (${features.length})`));
       controlsEl.appendChild(label);
     });
