@@ -25,7 +25,7 @@ small{color:#66727e}.ok{color:#176b36}.warn{color:#925b00}
   <input id="source" type="file" accept=".geojson,.json,application/geo+json,application/json">
   <label for="fallbackYear">Fallback year (only used if a feature has no date or year)</label>
   <input id="fallbackYear" type="number" min="2000" max="2100" placeholder="e.g. 2026">
-  <p><small>The converter reads years from the uMap yearly layers or each walk's date. It reads walk numbers from titles such as “Walk 42. …” and older titles such as “127. Winter walk …”.</small></p>
+  <p><small>The converter reads years from the uMap yearly layers or each walk's date. It reads the walk number directly from uMap’s marker icon number (the most reliable source), preserving fractional numbers such as 132.5.</small></p>
   <button id="convert" disabled>2. Convert GeoJSON</button>
 </div>
 <div class="panel">
@@ -63,18 +63,26 @@ function yearFromDate(value){
   return m?m[1]:'';
 }
 function walkNumberFromName(name,props){
+  // The uMap marker icon number is the authoritative walk number.
+  // It preserves fractional numbers such as 132.5 exactly.
+  const iconOptions=props?._umap_options;
+  const iconUrl=iconOptions && typeof iconOptions==='object' ? iconOptions.iconUrl : '';
+  if(iconUrl!=='' && iconUrl!==undefined && iconUrl!==null && /^\s*\d+(?:\.\d+)?\s*$/.test(String(iconUrl))){
+    return Number(String(iconUrl).trim());
+  }
+  // Fall back to explicit number fields if the marker icon is unavailable.
   const explicit=first(props,['walkNumber','Walk Number','Walk number','Number']);
   if(explicit!=='' && Number.isFinite(Number(explicit))) return Number(explicit);
+  // Finally, extract from the marker title, including decimal walk numbers.
   const text=String(name||'');
   let m=text.match(/\bWalk\s*#?\s*0*(\d+(?:\.\d+)?)\b/i);
   if(m) return Number(m[1]);
-  // Some older uMap entries start with the walk number, e.g. "127. Winter walk".
+  // Some older entries start with the walk number, e.g. "127. Winter walk".
   m=text.match(/^\s*0*(\d+(?:\.\d+)?)\s*[.):-]/);
   if(m) return Number(m[1]);
-  // uMap sometimes stores the walk number in the marker icon URL.
-  const icon=first(props,['_umap_options']);
-  const iconUrl=icon && typeof icon==='object' ? icon.iconUrl : '';
-  if(iconUrl && /^\d+(?:\.\d+)?$/.test(String(iconUrl))) return Number(iconUrl);
+  // Also accept a title that starts with a number and then a space.
+  m=text.match(/^\s*0*(\d+(?:\.\d+)?)\s+/);
+  if(m) return Number(m[1]);
   return null;
 }
 function allFeatures(data){
