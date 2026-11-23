@@ -47,7 +47,8 @@ function clearRoute() {
     map.removeLayer(activeRoute);
     activeRoute = null;
   }
-  // Close the walk popup as well as removing its route.
+  // Clear the Find Walk box as well as closing the walk popup.
+  document.getElementById('walkNumberSearch').value = '';
   map.closePopup();
   // Return to the full extent of all walk markers.
   if (allWalksBounds && allWalksBounds.isValid()) {
