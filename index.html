@@ -18,13 +18,12 @@
   <nav id="yearControls" aria-label="Show walk markers by year"></nav>
   <form id="walkSearch" role="search">
     <label for="walkNumberSearch">Find walk number</label>
-    <input id="walkNumberSearch" type="number" min="1" step="1" inputmode="numeric" placeholder="e.g. 42">
+    <input id="walkNumberSearch" type="number" min="1" step="any" inputmode="decimal" placeholder="e.g. 42 or 132.5">
     <button type="submit">Find walk</button>
   </form>
   <div id="status" role="status">Loading walks…</div>
   <main id="map" aria-label="Map of walks"></main>
   <footer>Walk descriptions and links are from the original walk map. Route lines are loaded only when a walk marker is selected.</footer>
-
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
   <script src="map.js"></script>

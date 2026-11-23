@@ -12,7 +12,6 @@ const yearCheckboxes = new Map();
 let activeRoute = null;
 let routeRequest = 0;
 let allWalksBounds = null;
-
 function safeText(value) {
   return String(value ?? '').replace(/[&<>"']/g, ch => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
@@ -42,7 +41,6 @@ function popupHtml(p) {
     ${p.description ? `<div>${safeText(p.description)}</div>` : ''}
     ${rowHtml}<div class="popup-links">${links}</div>${routeLine}`;
 }
-
 function clearRoute() {
   routeRequest++;
   if (activeRoute) {
@@ -58,17 +56,15 @@ function clearRoute() {
   statusEl.textContent = 'Route cleared. Showing the full extent of the walk markers.';
 }
 document.getElementById('clearRoute').addEventListener('click', clearRoute);
-
 document.getElementById('walkSearch').addEventListener('submit', event => {
   event.preventDefault();
   const input = document.getElementById('walkNumberSearch');
-  const walkNumber = Number.parseInt(input.value, 10);
-  if (!Number.isInteger(walkNumber) || walkNumber < 1) {
+  const walkNumber = Number(input.value);
+  if (!Number.isFinite(walkNumber) || walkNumber < 1) {
     statusEl.textContent = 'Please enter a valid walk number.';
     input.focus();
     return;
   }
-
   const match = walkMarkers.get(walkNumber);
   if (!match) {
     statusEl.textContent = `Walk ${walkNumber} was not found in the current map data.`;
@@ -82,11 +78,9 @@ document.getElementById('walkSearch').addEventListener('submit', event => {
     checkbox.checked = true;
     layer.addTo(map);
   }
-
   map.setView(match.marker.getLatLng(), 13);
   match.marker.fire('click');
 });
-
 function showRoute(feature, marker) {
   const p = feature.properties || {};
   if (!p.walkNumber) {
@@ -100,7 +94,6 @@ function showRoute(feature, marker) {
   }
   const fileName = `walk-${String(p.walkNumber).padStart(3, '0')}.gpx`;
   statusEl.textContent = `Loading route for ${p.name}…`;
-
   const route = new L.GPX(fileName, {
     async: true,
     marker_options: {
@@ -122,13 +115,11 @@ function showRoute(feature, marker) {
     statusEl.textContent = `No GPX file found for ${p.name} yet. The walk marker and its links are still available.`;
   });
 }
-
 // Check which GPX files exist. Only those walks receive numbered markers.
 async function findAvailableGpxFiles(features) {
   const walkNumbers = [...new Set(features
     .map(feature => feature.properties && feature.properties.walkNumber)
-    .filter(number => Number.isInteger(number)))];
-
+    .filter(number => Number.isFinite(number)))];
   const checks = await Promise.all(walkNumbers.map(async number => {
     const fileName = `walk-${String(number).padStart(3, '0')}.gpx`;
     try {
@@ -140,7 +131,6 @@ async function findAvailableGpxFiles(features) {
   }));
   return new Set(checks.filter(number => number !== null));
 }
-
 fetch('walks-data.geojson')
   .then(response => {
     if (!response.ok) throw new Error(`Could not load walk data (${response.status})`);
@@ -148,13 +138,11 @@ fetch('walks-data.geojson')
   })
   .then(async data => {
     const availableGpxNumbers = await findAvailableGpxFiles(data.features);
-
     // Keep the overall extent of every walk marker, including years hidden by the filters.
     allWalksBounds = L.geoJSON(data).getBounds();
     if (allWalksBounds.isValid()) {
       map.fitBounds(allWalksBounds, { padding: [28, 28], maxZoom: 11 });
     }
-
     const years = [...new Set(data.features.map(f => String(f.properties.year)))].sort();
     let total = 0;
     years.forEach(year => {
@@ -162,7 +150,7 @@ fetch('walks-data.geojson')
       const layer = L.geoJSON(features, {
         pointToLayer: (feature, latlng) => {
           const walkNumber = feature.properties && feature.properties.walkNumber;
-          if (Number.isInteger(walkNumber) && availableGpxNumbers.has(walkNumber)) {
+          if (Number.isFinite(walkNumber) && availableGpxNumbers.has(walkNumber)) {
             return L.marker(latlng, {
               icon: L.divIcon({
                 className: 'walk-number-icon',
@@ -180,7 +168,7 @@ fetch('walks-data.geojson')
         onEachFeature: (feature, marker) => {
           marker.bindPopup(popupHtml(feature.properties), { maxWidth: 300 });
           const number = feature.properties && feature.properties.walkNumber;
-          if (Number.isInteger(number)) {
+          if (Number.isFinite(number)) {
             walkMarkers.set(number, { marker, year });
           }
           marker.on('click', () => showRoute(feature, marker));
@@ -188,7 +176,6 @@ fetch('walks-data.geojson')
       }).addTo(map);
       yearLayers.set(year, layer);
       total += features.length;
-
       const label = document.createElement('label');
       label.className = 'year-toggle';
       const checkbox = document.createElement('input');
