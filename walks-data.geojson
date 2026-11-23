@@ -706,11 +706,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.321404,
-          55.719569
-        ],
-        "type": "Point"
+          -4.347754,
+          55.663354
+        ]
       },
       "properties": {
         "name": "Walk 28. Whitelee circular.",
