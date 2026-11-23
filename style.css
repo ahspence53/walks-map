@@ -22,3 +22,11 @@ footer { padding: 7px 12px; font-size: .75rem; color: #687380; background: #fff;
   header p { font-size: .82rem; }
   #map { min-height: 420px; }
 }
+/* Numbered marker shown only when its matching GPX file exists. */
+.walk-number-icon { background: transparent; border: 0; }
+.walk-number-icon span {
+  display: flex; align-items: center; justify-content: center;
+  width: 27px; height: 27px; border: 2px solid #c62828; border-radius: 50%;
+  background: #fff; color: #242424; font-size: 12px; font-weight: 700;
+  line-height: 1; box-shadow: 0 1px 4px rgba(0, 0, 0, .35);
+}

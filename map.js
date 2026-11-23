@@ -93,12 +93,32 @@ function showRoute(feature, marker) {
   });
 }
 
+// Check which GPX files exist. Only those walks receive numbered markers.
+async function findAvailableGpxFiles(features) {
+  const walkNumbers = [...new Set(features
+    .map(feature => feature.properties && feature.properties.walkNumber)
+    .filter(number => Number.isInteger(number)))];
+
+  const checks = await Promise.all(walkNumbers.map(async number => {
+    const fileName = `walk-${String(number).padStart(3, '0')}.gpx`;
+    try {
+      const response = await fetch(fileName, { method: 'HEAD', cache: 'no-store' });
+      return response.ok ? number : null;
+    } catch (_) {
+      return null;
+    }
+  }));
+  return new Set(checks.filter(number => number !== null));
+}
+
 fetch('walks-data.geojson')
   .then(response => {
     if (!response.ok) throw new Error(`Could not load walk data (${response.status})`);
     return response.json();
   })
-  .then(data => {
+  .then(async data => {
+    const availableGpxNumbers = await findAvailableGpxFiles(data.features);
+
     // Keep the overall extent of every walk marker, including years hidden by the filters.
     allWalksBounds = L.geoJSON(data).getBounds();
     if (allWalksBounds.isValid()) {
@@ -110,9 +130,23 @@ fetch('walks-data.geojson')
     years.forEach(year => {
       const features = data.features.filter(f => String(f.properties.year) === year);
       const layer = L.geoJSON(features, {
-        pointToLayer: (feature, latlng) => L.circleMarker(latlng, {
-          radius: 7, color: '#8b1e2d', weight: 1.5, fillColor: '#e85b65', fillOpacity: 0.9
-        }),
+        pointToLayer: (feature, latlng) => {
+          const walkNumber = feature.properties && feature.properties.walkNumber;
+          if (Number.isInteger(walkNumber) && availableGpxNumbers.has(walkNumber)) {
+            return L.marker(latlng, {
+              icon: L.divIcon({
+                className: 'walk-number-icon',
+                html: `<span>${safeText(walkNumber)}</span>`,
+                iconSize: [30, 30],
+                iconAnchor: [15, 15],
+                popupAnchor: [0, -14]
+              })
+            });
+          }
+          return L.circleMarker(latlng, {
+            radius: 7, color: '#8b1e2d', weight: 1.5, fillColor: '#e85b65', fillOpacity: 0.9
+          });
+        },
         onEachFeature: (feature, marker) => {
           marker.bindPopup(popupHtml(feature.properties), { maxWidth: 300 });
           marker.on('click', () => showRoute(feature, marker));

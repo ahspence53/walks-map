@@ -1,0 +1,1 @@
+Replace map.js and style.css in the root of the walks-map GitHub repository. Only markers with a matching walk-NNN.gpx file display the walk number in a white circle with a red outline. Markers without a GPX file keep the existing small red-dot appearance. No other files need changing.
