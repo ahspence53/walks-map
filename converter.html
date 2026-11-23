@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>uMap to Walks Map converter</title>
+<style>
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;max-width:850px;margin:24px auto;padding:0 16px;color:#20252b;line-height:1.45}
+h1{font-size:1.55rem;margin-bottom:6px}p{color:#52606d}
+.panel{border:1px solid #d5dce4;border-radius:12px;padding:16px;margin:16px 0}
+label{display:block;font-weight:650;margin:10px 0 6px}
+input[type=file]{width:100%;padding:10px;border:1px solid #b8c2ce;border-radius:8px;background:#f8fafc}
+button{padding:10px 16px;border:1px solid #9aa8b7;border-radius:8px;background:#f3f6f9;font:inherit;font-weight:650;cursor:pointer}
+button:disabled{opacity:.45;cursor:not-allowed}
+#download{background:#eaf5ed;border-color:#8bb99a}
+#log{white-space:pre-wrap;background:#f6f8fa;border-radius:8px;padding:12px;min-height:60px;font-size:.9rem}
+small{color:#66727e}.ok{color:#176b36}.warn{color:#925b00}
+</style>
+</head>
+<body>
+<h1>uMap → Walks Map converter</h1>
+<p>Convert a fresh uMap GeoJSON export or complete uMap backup JSON into the <code>walks-data.geojson</code> file used by your GitHub walking map. Your selected file is processed in this browser; it is not uploaded to a server.</p>
+<div class="panel">
+  <label for="source">1. Choose your latest uMap GeoJSON export or backup JSON</label>
+  <input id="source" type="file" accept=".geojson,.json,application/geo+json,application/json">
+  <label for="fallbackYear">Fallback year (only used if a feature has no date or year)</label>
+  <input id="fallbackYear" type="number" min="2000" max="2100" placeholder="e.g. 2026">
+  <p><small>The converter reads years from the uMap yearly layers or each walk's date. It reads walk numbers from titles such as “Walk 42. …” and older titles such as “127. Winter walk …”.</small></p>
+  <button id="convert" disabled>2. Convert GeoJSON</button>
+</div>
+<div class="panel">
+  <strong>Conversion report</strong>
+  <div id="log">Choose a GeoJSON file to begin.</div>
+  <p><button id="download" disabled>Download walks-data.geojson</button></p>
+</div>
+<p><strong>After conversion:</strong> upload the downloaded <code>walks-data.geojson</code> to the root of your <code>walks-map</code> GitHub repository, replacing the previous version. Your GPX files remain untouched.</p>
+<script>
+const fileInput=document.getElementById('source');
+const convertButton=document.getElementById('convert');
+const downloadButton=document.getElementById('download');
+const log=document.getElementById('log');
+let convertedText=null;
+fileInput.addEventListener('change',()=>{
+  convertButton.disabled=!fileInput.files.length;
+  downloadButton.disabled=true;
+  convertedText=null;
+  log.textContent=fileInput.files.length?`Selected: ${fileInput.files[0].name}`:'Choose a GeoJSON file to begin.';
+});
+function first(obj,keys){
+  for(const key of keys){
+    const value=obj?.[key];
+    if(value!==undefined && value!==null && String(value).trim()!=='') return value;
+  }
+  return '';
+}
+function yearFromDate(value){
+  if(!value)return '';
+  const s=String(value);
+  let m=s.match(/\b(20\d{2})\b/);
+  if(m)return m[1];
+  // Handles common UK date format dd/mm/yyyy and ISO date strings.
+  m=s.match(/^\s*\d{1,2}[\/.-]\d{1,2}[\/.-](20\d{2})/);
+  return m?m[1]:'';
+}
+function walkNumberFromName(name,props){
+  const explicit=first(props,['walkNumber','Walk Number','Walk number','Number']);
+  if(explicit!=='' && Number.isFinite(Number(explicit))) return Number(explicit);
+  const text=String(name||'');
+  let m=text.match(/\bWalk\s*#?\s*0*(\d+(?:\.\d+)?)\b/i);
+  if(m) return Number(m[1]);
+  // Some older uMap entries start with the walk number, e.g. "127. Winter walk".
+  m=text.match(/^\s*0*(\d+(?:\.\d+)?)\s*[.):-]/);
+  if(m) return Number(m[1]);
+  // uMap sometimes stores the walk number in the marker icon URL.
+  const icon=first(props,['_umap_options']);
+  const iconUrl=icon && typeof icon==='object' ? icon.iconUrl : '';
+  if(iconUrl && /^\d+(?:\.\d+)?$/.test(String(iconUrl))) return Number(iconUrl);
+  return null;
+}
+function allFeatures(data){
+  if(data?.type==='FeatureCollection' && Array.isArray(data.features)) return data.features.map(f=>({feature:f,layerYear:''}));
+  if(data?.type==='Feature') return [{feature:data,layerYear:''}];
+  // Also accept a full uMap backup JSON, with its individual yearly layers.
+  if(Array.isArray(data?.layers)){
+    const out=[];
+    for(const layer of data.layers){
+      const lp=layer.properties||{};
+      const layerYear=String(first(lp,['name','Name'])||first(layer._umap_options||{},['name','name_label'])||'');
+      for(const feature of (layer.features||[])) out.push({feature,layerYear});
+    }
+    return out;
+  }
+  throw new Error('This file does not look like a GeoJSON FeatureCollection or a uMap backup JSON.');
+}
+function normalise(entry,fallbackYear){
+  const f=entry.feature||{};
+  if(f.type!=='Feature' || !f.geometry || f.geometry.type!=='Point') return null;
+  const p=f.properties||{};
+  const name=first(p,['name','Name','Walk name','Walk Name','title','Title']);
+  const date=first(p,['Date of walk','Date','date','Walk date']);
+  const description=first(p,['Description','description','Walk Description','Walk description']);
+  const number=walkNumberFromName(name,p);
+  const year=first(p,['year','Year']) || yearFromDate(date) ||
+    (/^20\d{2}$/.test(entry.layerYear)?entry.layerYear:'') || fallbackYear;
+  if(!name || !number || !year) return {error:`Skipped a point: missing walk title/number or year. Title: ${name||'(blank)'}`};
+  return {
+    type:'Feature',
+    geometry:f.geometry,
+    properties:{
+      name:String(name),
+      description:String(description||''),
+      walkNumber:number,
+      year:String(year),
+      walkPage:String(first(p,['Walk Page','Walk page','walkPage','walk_page'])||''),
+      outdooractive:String(first(p,['Outdooractive','OutdoorActive','Outdooractive URL','outdooractive'])||''),
+      distance:String(first(p,['Distance','distance'])||''),
+      time:String(first(p,['Time','time'])||''),
+      ascent:String(first(p,['Ascent','ascent'])||''),
+      descent:String(first(p,['Descent','descent'])||''),
+      date:String(date||''),
+      rating:String(first(p,['Rating','rating'])||''),
+      difficulty:String(first(p,['Difficulty','difficulty'])||''),
+      photo:String(first(p,['Photo','photo'])||'')
+    }
+  };
+}
+convertButton.addEventListener('click',async()=>{
+  downloadButton.disabled=true; convertedText=null;
+  try{
+    const file=fileInput.files[0];
+    const data=JSON.parse(await file.text());
+    const entries=allFeatures(data);
+    const fallback=document.getElementById('fallbackYear').value.trim();
+    const output=[],issues=[];
+    for(const entry of entries){
+      const result=normalise(entry,fallback);
+      if(result?.error) issues.push(result.error);
+      else if(result) output.push(result);
+    }
+    const seen=new Set(),duplicates=[];
+    for(const f of output){
+      const n=f.properties.walkNumber;
+      if(seen.has(n)) duplicates.push(n);
+      seen.add(n);
+    }
+    output.sort((a,b)=>a.properties.walkNumber-b.properties.walkNumber);
+    convertedText=JSON.stringify({type:'FeatureCollection',features:output},null,2);
+    const years={};
+    for(const f of output) years[f.properties.year]=(years[f.properties.year]||0)+1;
+    const lines=[
+      `Read ${entries.length} source features.`,
+      `Converted ${output.length} walk markers.`,
+      `Years: ${Object.keys(years).sort().map(y=>`${y}: ${years[y]}`).join(', ')||'none'}.`,
+      duplicates.length?`WARNING: duplicate walk numbers: ${[...new Set(duplicates)].join(', ')}.`:'No duplicate walk numbers detected.',
+      issues.length?`Skipped ${issues.length} point(s):\n${issues.slice(0,12).join('\n')}${issues.length>12?'\n…':''}`:'No points were skipped.'
+    ];
+    log.textContent=lines.join('\n');
+    log.className=issues.length||duplicates.length?'warn':'ok';
+    downloadButton.disabled=output.length===0;
+  }catch(err){
+    log.textContent=`Conversion failed: ${err.message}`;
+    log.className='warn';
+  }
+});
+downloadButton.addEventListener('click',()=>{
+  if(!convertedText)return;
+  const blob=new Blob([convertedText],{type:'application/geo+json'});
+  const url=URL.createObjectURL(blob);
+  const a=document.createElement('a');
+  a.href=url;a.download='walks-data.geojson';a.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+});
+</script>
+</body>
+</html>
