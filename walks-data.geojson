@@ -3436,32 +3436,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.6624946594,
-          55.5468922435
-        ]
-      },
-      "properties": {
-        "name": "132.5 Irvine Bay",
-        "description": "",
-        "walkNumber": 132,
-        "year": "2025",
-        "walkPage": "https://thewalks.weebly.com/1325",
-        "outdooractive": "https://out.ac/IYAazx",
-        "distance": "7.9 Miles/12.7 km",
-        "time": "3.05",
-        "ascent": "52 Feet/15.8 metres",
-        "descent": "66 Feet/20 metres",
-        "date": "27/02/2025",
-        "rating": "29",
-        "difficulty": "Easiest",
-        "photo": "<a href=\"https://lh3.googleusercontent.com/pw/AP1GczPBFse8GL7I_chA7Hkf7SKvPDEZVNdgABA_7Tl-B_pL4lWm1SKN62MC38mMkhp1j9R56raGgvYN_aIUX-P8MDGrP2mOkWXO1PvejUZWzdkJH7zhMU8T=w2400?source=screenshot.guru\"> <img src=\"https://lh3.googleusercontent.com/pw/AP1GczPBFse8GL7I_chA7Hkf7SKvPDEZVNdgABA_7Tl-B_pL4lWm1SKN62MC38mMkhp1j9R56raGgvYN_aIUX-P8MDGrP2mOkWXO1PvejUZWzdkJH7zhMU8T=w600-h315-p-k\" /> </a>"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "coordinates": [
           -4.674704,
           55.615892
@@ -3483,6 +3457,32 @@
         "rating": "39",
         "difficulty": "Easiest",
         "photo": "<a href=\"https://lh3.googleusercontent.com/pw/AP1GczMw6wxg1rpk1EEzJ5Fxe_sFGsUVyOBagnGhlh4NFK8yyszvznzci6V_bffBHMxiLJ5CN9fISjmFV4Wh55sSCaDRnhlaUUWEinyZQ5OESr6X1OsZJj1T=w2400?source=screenshot.guru\"> <img src=\"https://lh3.googleusercontent.com/pw/AP1GczMw6wxg1rpk1EEzJ5Fxe_sFGsUVyOBagnGhlh4NFK8yyszvznzci6V_bffBHMxiLJ5CN9fISjmFV4Wh55sSCaDRnhlaUUWEinyZQ5OESr6X1OsZJj1T=w600-h315-p-k\" /> </a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6624946594,
+          55.5468922435
+        ]
+      },
+      "properties": {
+        "name": "132.5 Irvine Bay",
+        "description": "",
+        "walkNumber": 132.5,
+        "year": "2025",
+        "walkPage": "https://thewalks.weebly.com/1325",
+        "outdooractive": "https://out.ac/IYAazx",
+        "distance": "7.9 Miles/12.7 km",
+        "time": "3.05",
+        "ascent": "52 Feet/15.8 metres",
+        "descent": "66 Feet/20 metres",
+        "date": "27/02/2025",
+        "rating": "29",
+        "difficulty": "Easiest",
+        "photo": "<a href=\"https://lh3.googleusercontent.com/pw/AP1GczPBFse8GL7I_chA7Hkf7SKvPDEZVNdgABA_7Tl-B_pL4lWm1SKN62MC38mMkhp1j9R56raGgvYN_aIUX-P8MDGrP2mOkWXO1PvejUZWzdkJH7zhMU8T=w2400?source=screenshot.guru\"> <img src=\"https://lh3.googleusercontent.com/pw/AP1GczPBFse8GL7I_chA7Hkf7SKvPDEZVNdgABA_7Tl-B_pL4lWm1SKN62MC38mMkhp1j9R56raGgvYN_aIUX-P8MDGrP2mOkWXO1PvejUZWzdkJH7zhMU8T=w600-h315-p-k\" /> </a>"
       }
     },
     {
