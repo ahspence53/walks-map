@@ -98,7 +98,7 @@ function showRoute(feature, marker) {
   const route = new L.GPX(fileName, {
     async: true,
     marker_options: {
-      startIconUrl: null, // Hide the GPX start pin; the numbered uMap marker identifies the walk start.
+      startIconUrl: '', // Hide the GPX start pin; the numbered uMap marker identifies the walk start.
       endIconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-icon-end.png',
       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-shadow.png'
     },
