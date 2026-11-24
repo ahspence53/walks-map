@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>WALK 37. Eglinton extended</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/230323516"/>
+    <time>2026-03-20T08:25:01.256Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>WALK 37. Eglinton extended</name>
+    <desc>Walk, starting in Eglinton country park, following Garnock Water to NCP, along country roads back to Eglinton and walking round the periphery of the park to take in Coursehill Mount.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.641199" lon="-4.671916">
+        <ele>13.19506</ele>
+        <time>2021-11-18T09:15:00.000Z</time>
+        <name>Start on</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.641204" lon="-4.671743">
+        <ele>13.47219</ele>
+        <time>2021-11-18T09:15:09.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.64135" lon="-4.671755">
+        <ele>13.60107</ele>
+        <time>2021-11-18T09:15:22.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.641364" lon="-4.671887">
+        <ele>13.36459</ele>
+        <time>2021-11-18T09:15:29.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641356" lon="-4.672234">
+        <ele>12.60144</ele>
+        <time>2021-11-18T09:15:47.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.641387" lon="-4.672238">
+        <ele>12.59101</ele>
+        <time>2021-11-18T09:15:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641703" lon="-4.672278">
+        <ele>12.48853</ele>
+        <time>2021-11-18T09:16:18.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.641807" lon="-4.672671">
+        <ele>11.70179</ele>
+        <time>2021-11-18T09:16:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641882" lon="-4.672799">
+        <ele>11.51172</ele>
+        <time>2021-11-18T09:16:49.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642206" lon="-4.672952">
+        <ele>11.25121</ele>
+        <time>2021-11-18T09:17:18.000Z</time>
+        <name>55.642206,-4.672952</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.642852" lon="-4.673108">
+        <ele>12.04416</ele>
+        <time>2021-11-18T09:18:17.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643627" lon="-4.674071">
+        <ele>13.57544</ele>
+        <time>2021-11-18T09:19:49.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.643317" lon="-4.674661">
+        <ele>13.02788</ele>
+        <time>2021-11-18T09:20:30.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643082" lon="-4.675289">
+        <ele>11.93605</ele>
+        <time>2021-11-18T09:21:07.000Z</time>
+        <name>55.643082,-4.675289</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.642685" lon="-4.67666">
+        <ele>10.28454</ele>
+        <time>2021-11-18T09:22:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642561" lon="-4.67729">
+        <ele>9.17942</ele>
+        <time>2021-11-18T09:22:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642594" lon="-4.677499">
+        <ele>8.93586</ele>
+        <time>2021-11-18T09:23:07.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.642574" lon="-4.677533">
+        <ele>8.91869</ele>
+        <time>2021-11-18T09:23:09.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642594" lon="-4.677499">
+        <ele>8.93586</ele>
+        <time>2021-11-18T09:23:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642817" lon="-4.677721">
+        <ele>8.89091</ele>
+        <time>2021-11-18T09:23:35.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.642515" lon="-4.678277">
+        <ele>8.96505</ele>
+        <time>2021-11-18T09:24:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642352" lon="-4.678655">
+        <ele>9.53941</ele>
+        <time>2021-11-18T09:24:37.000Z</time>
+        <name>55.642352,-4.678655</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.642219" lon="-4.679342">
+        <ele>9.97639</ele>
+        <time>2021-11-18T09:25:17.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642231" lon="-4.679677">
+        <ele>9.87878</ele>
+        <time>2021-11-18T09:25:36.000Z</time>
+      </trkpt>
+      <trkpt lat="55.642364" lon="-4.680031">
+        <ele>9.32589</ele>
+        <time>2021-11-18T09:25:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643169" lon="-4.680635">
+        <ele>7.80439</ele>
+        <time>2021-11-18T09:27:14.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643303" lon="-4.680785">
+        <ele>7.96435</ele>
+        <time>2021-11-18T09:27:29.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643439" lon="-4.681069">
+        <ele>8.06106</ele>
+        <time>2021-11-18T09:27:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643624" lon="-4.681852">
+        <ele>7.54028</ele>
+        <time>2021-11-18T09:28:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643575" lon="-4.682335">
+        <ele>6.89089</ele>
+        <time>2021-11-18T09:28:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643505" lon="-4.68255">
+        <ele>6.70908</ele>
+        <time>2021-11-18T09:29:08.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643514" lon="-4.682675">
+        <ele>6.54297</ele>
+        <time>2021-11-18T09:29:14.000Z</time>
+      </trkpt>
+      <trkpt lat="55.644271" lon="-4.683968">
+        <ele>7.31244</ele>
+        <time>2021-11-18T09:30:49.000Z</time>
+      </trkpt>
+      <trkpt lat="55.644925" lon="-4.684524">
+        <ele>9.32097</ele>
+        <time>2021-11-18T09:32:07.000Z</time>
+        <name>55.644925,-4.684524</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.644991" lon="-4.684573">
+        <ele>9.42742</ele>
+        <time>2021-11-18T09:32:14.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645034" lon="-4.684944">
+        <ele>9.12147</ele>
+        <time>2021-11-18T09:32:35.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645123" lon="-4.685277">
+        <ele>9.22706</ele>
+        <time>2021-11-18T09:32:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645254" lon="-4.685489">
+        <ele>9.51693</ele>
+        <time>2021-11-18T09:33:13.000Z</time>
+        <name>55.645254,-4.685489</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645516" lon="-4.68566">
+        <ele>9.91736</ele>
+        <time>2021-11-18T09:33:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645547" lon="-4.685782">
+        <ele>9.86948</ele>
+        <time>2021-11-18T09:33:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645487" lon="-4.686221">
+        <ele>9.80029</ele>
+        <time>2021-11-18T09:34:09.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645823" lon="-4.686396">
+        <ele>10.0392</ele>
+        <time>2021-11-18T09:34:40.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645715" lon="-4.68701">
+        <ele>9.53527</ele>
+        <time>2021-11-18T09:35:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645522" lon="-4.687461">
+        <ele>8.65701</ele>
+        <time>2021-11-18T09:35:40.000Z</time>
+        <name>55.645522,-4.687461</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645291" lon="-4.68775">
+        <ele>8.29761</ele>
+        <time>2021-11-18T09:36:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645086" lon="-4.687847">
+        <ele>8.08075</ele>
+        <time>2021-11-18T09:36:24.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645176" lon="-4.688351">
+        <ele>8.19822</ele>
+        <time>2021-11-18T09:36:51.000Z</time>
+        <name>55.645176,-4.688351</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645231" lon="-4.688823">
+        <ele>7.62108</ele>
+        <time>2021-11-18T09:37:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645305" lon="-4.689611">
+        <ele>7.28221</ele>
+        <time>2021-11-18T09:37:55.000Z</time>
+        <name>55.645305,-4.689611</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645313" lon="-4.689698">
+        <ele>7.32028</ele>
+        <time>2021-11-18T09:37:59.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645116" lon="-4.690186">
+        <ele>7.07069</ele>
+        <time>2021-11-18T09:38:29.000Z</time>
+      </trkpt>
+      <trkpt lat="55.644925" lon="-4.69082">
+        <ele>7.05591</ele>
+        <time>2021-11-18T09:39:06.000Z</time>
+        <name>55.644925,-4.690820</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.644727" lon="-4.691665">
+        <ele>7.36368</ele>
+        <time>2021-11-18T09:39:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.644672" lon="-4.692233">
+        <ele>8.08913</ele>
+        <time>2021-11-18T09:40:27.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.645173" lon="-4.692359">
+        <ele>7.55851</ele>
+        <time>2021-11-18T09:41:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645376" lon="-4.692601">
+        <ele>7.51043</ele>
+        <time>2021-11-18T09:41:37.000Z</time>
+        <name>55.645376,-4.692601</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6463" lon="-4.693174">
+        <ele>8.59113</ele>
+        <time>2021-11-18T09:43:11.000Z</time>
+        <name>55.646300,-4.693174</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.646852" lon="-4.693187">
+        <ele>8.93634</ele>
+        <time>2021-11-18T09:44:01.000Z</time>
+        <name>Keep right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.648025" lon="-4.691717">
+        <ele>8.73326</ele>
+        <time>2021-11-18T09:46:10.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.648397" lon="-4.691917">
+        <ele>8.98227</ele>
+        <time>2021-11-18T09:46:45.000Z</time>
+      </trkpt>
+      <trkpt lat="55.648696" lon="-4.691811">
+        <ele>8.61954</ele>
+        <time>2021-11-18T09:47:13.000Z</time>
+        <name>55.648696,-4.691811</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.648867" lon="-4.691823">
+        <ele>8.31767</ele>
+        <time>2021-11-18T09:47:28.000Z</time>
+      </trkpt>
+      <trkpt lat="55.649218" lon="-4.692034">
+        <ele>7.91778</ele>
+        <time>2021-11-18T09:48:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.649703" lon="-4.691874">
+        <ele>8.02428</ele>
+        <time>2021-11-18T09:48:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.649989" lon="-4.692052">
+        <ele>8.38378</ele>
+        <time>2021-11-18T09:49:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650111" lon="-4.692054">
+        <ele>8.38169</ele>
+        <time>2021-11-18T09:49:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650242" lon="-4.691995">
+        <ele>8.21323</ele>
+        <time>2021-11-18T09:49:44.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650516" lon="-4.691708">
+        <ele>7.78568</ele>
+        <time>2021-11-18T09:50:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650726" lon="-4.691669">
+        <ele>7.85274</ele>
+        <time>2021-11-18T09:50:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.651212" lon="-4.692121">
+        <ele>9.85822</ele>
+        <time>2021-11-18T09:51:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.651523" lon="-4.692575">
+        <ele>12.5572</ele>
+        <time>2021-11-18T09:52:23.000Z</time>
+      </trkpt>
+      <trkpt lat="55.651742" lon="-4.693093">
+        <ele>14.8193</ele>
+        <time>2021-11-18T09:53:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.651948" lon="-4.693447">
+        <ele>15.92897</ele>
+        <time>2021-11-18T09:53:38.000Z</time>
+      </trkpt>
+      <trkpt lat="55.652736" lon="-4.693715">
+        <ele>16.43656</ele>
+        <time>2021-11-18T09:55:00.000Z</time>
+      </trkpt>
+      <trkpt lat="55.65337" lon="-4.694788">
+        <ele>18.18727</ele>
+        <time>2021-11-18T09:56:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.653745" lon="-4.695888">
+        <ele>19.30981</ele>
+        <time>2021-11-18T09:57:45.000Z</time>
+        <name>55.653745,-4.695888</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.653838" lon="-4.696167">
+        <ele>19.64258</ele>
+        <time>2021-11-18T09:58:03.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.654108" lon="-4.695804">
+        <ele>17.10144</ele>
+        <time>2021-11-18T09:58:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654193" lon="-4.695734">
+        <ele>16.55269</ele>
+        <time>2021-11-18T09:58:39.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.654203" lon="-4.695775">
+        <ele>16.68174</ele>
+        <time>2021-11-18T09:58:41.000Z</time>
+        <name>55.654203,-4.695775</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.65421" lon="-4.695806">
+        <ele>16.77962</ele>
+        <time>2021-11-18T09:58:42.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.654417" lon="-4.695912">
+        <ele>16.79839</ele>
+        <time>2021-11-18T09:59:00.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654623" lon="-4.695778">
+        <ele>16.05155</ele>
+        <time>2021-11-18T09:59:19.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654793" lon="-4.695757">
+        <ele>15.84259</ele>
+        <time>2021-11-18T09:59:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654999" lon="-4.695875">
+        <ele>16.17828</ele>
+        <time>2021-11-18T09:59:53.000Z</time>
+        <name>55.654999,-4.695875</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.655209" lon="-4.696071">
+        <ele>16.77588</ele>
+        <time>2021-11-18T10:00:14.000Z</time>
+      </trkpt>
+      <trkpt lat="55.655241" lon="-4.696102">
+        <ele>16.87722</ele>
+        <time>2021-11-18T10:00:17.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.655253" lon="-4.696025">
+        <ele>16.54094</ele>
+        <time>2021-11-18T10:00:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.655334" lon="-4.695977">
+        <ele>16.25673</ele>
+        <time>2021-11-18T10:00:28.000Z</time>
+      </trkpt>
+      <trkpt lat="55.65581" lon="-4.696127">
+        <ele>16.27246</ele>
+        <time>2021-11-18T10:01:11.000Z</time>
+        <name>55.655810,-4.696127</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.656058" lon="-4.696148">
+        <ele>15.63946</ele>
+        <time>2021-11-18T10:01:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.656399" lon="-4.696378">
+        <ele>14.79877</ele>
+        <time>2021-11-18T10:02:02.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.65649" lon="-4.696295">
+        <ele>14.24787</ele>
+        <time>2021-11-18T10:02:10.000Z</time>
+        <name>55.656490,-4.696295</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.656605" lon="-4.696048">
+        <ele>13.48271</ele>
+        <time>2021-11-18T10:02:24.000Z</time>
+      </trkpt>
+      <trkpt lat="55.656824" lon="-4.695919">
+        <ele>12.81182</ele>
+        <time>2021-11-18T10:02:43.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.656742" lon="-4.695762">
+        <ele>12.71662</ele>
+        <time>2021-11-18T10:02:54.000Z</time>
+      </trkpt>
+      <trkpt lat="55.656775" lon="-4.695553">
+        <ele>12.06175</ele>
+        <time>2021-11-18T10:03:05.000Z</time>
+        <name>55.656775,-4.695553</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.656877" lon="-4.695225">
+        <ele>10.99759</ele>
+        <time>2021-11-18T10:03:25.000Z</time>
+      </trkpt>
+      <trkpt lat="55.657217" lon="-4.693997">
+        <ele>12.89732</ele>
+        <time>2021-11-18T10:04:46.000Z</time>
+        <name>55.657217,-4.693997</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.657504" lon="-4.693327">
+        <ele>14.01512</ele>
+        <time>2021-11-18T10:05:37.000Z</time>
+      </trkpt>
+      <trkpt lat="55.657625" lon="-4.69315">
+        <ele>14.53277</ele>
+        <time>2021-11-18T10:05:51.000Z</time>
+      </trkpt>
+      <trkpt lat="55.657877" lon="-4.692978">
+        <ele>15.04679</ele>
+        <time>2021-11-18T10:06:16.000Z</time>
+      </trkpt>
+      <trkpt lat="55.658219" lon="-4.693096">
+        <ele>13.92589</ele>
+        <time>2021-11-18T10:06:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.658572" lon="-4.693516">
+        <ele>13.5808</ele>
+        <time>2021-11-18T10:07:30.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.659631" lon="-4.694557">
+        <ele>17.56638</ele>
+        <time>2021-11-18T10:09:39.000Z</time>
+        <name>55.659631,-4.694557</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.659976" lon="-4.695834">
+        <ele>20.03288</ele>
+        <time>2021-11-18T10:11:07.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.660667" lon="-4.696104">
+        <ele>19.23108</ele>
+        <time>2021-11-18T10:12:11.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.660769" lon="-4.695126">
+        <ele>15.46458</ele>
+        <time>2021-11-18T10:12:57.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661223" lon="-4.695329">
+        <ele>15.81418</ele>
+        <time>2021-11-18T10:13:44.000Z</time>
+        <name>55.661223,-4.695329</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.661562" lon="-4.695759">
+        <ele>18.66407</ele>
+        <time>2021-11-18T10:14:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661877" lon="-4.69681">
+        <ele>21.88366</ele>
+        <time>2021-11-18T10:15:44.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661901" lon="-4.697346">
+        <ele>23.20258</ele>
+        <time>2021-11-18T10:16:16.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661862" lon="-4.697684">
+        <ele>24.33438</ele>
+        <time>2021-11-18T10:16:34.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.662181" lon="-4.69796">
+        <ele>22.2876</ele>
+        <time>2021-11-18T10:17:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.662364" lon="-4.698345">
+        <ele>22.00104</ele>
+        <time>2021-11-18T10:17:33.000Z</time>
+        <name>55.662364,-4.698345</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.662444" lon="-4.698808">
+        <ele>22.5382</ele>
+        <time>2021-11-18T10:18:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.662387" lon="-4.699481">
+        <ele>24.28101</ele>
+        <time>2021-11-18T10:18:43.000Z</time>
+        <name>55.662387,-4.699481</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.662303" lon="-4.699676">
+        <ele>24.99487</ele>
+        <time>2021-11-18T10:18:57.000Z</time>
+        <name>Keep right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.662312" lon="-4.699788">
+        <ele>25.18498</ele>
+        <time>2021-11-18T10:19:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.662436" lon="-4.699885">
+        <ele>24.98834</ele>
+        <time>2021-11-18T10:19:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.66282" lon="-4.699415">
+        <ele>21.38911</ele>
+        <time>2021-11-18T10:19:50.000Z</time>
+        <name>55.662820,-4.699415</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.664098" lon="-4.696892">
+        <ele>25.63607</ele>
+        <time>2021-11-18T10:23:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.664553" lon="-4.695842">
+        <ele>28.74229</ele>
+        <time>2021-11-18T10:25:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.665395" lon="-4.693398">
+        <ele>33.62313</ele>
+        <time>2021-11-18T10:28:00.000Z</time>
+      </trkpt>
+      <trkpt lat="55.665588" lon="-4.692491">
+        <ele>35.25733</ele>
+        <time>2021-11-18T10:29:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.665825" lon="-4.691664">
+        <ele>37.93902</ele>
+        <time>2021-11-18T10:29:52.000Z</time>
+        <name>55.665825,-4.691664</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.665831" lon="-4.691644">
+        <ele>37.96505</ele>
+        <time>2021-11-18T10:29:53.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.664591" lon="-4.690561">
+        <ele>29.23282</ele>
+        <time>2021-11-18T10:31:45.000Z</time>
+        <name>55.664591,-4.690561</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.664322" lon="-4.690448">
+        <ele>28.44288</ele>
+        <time>2021-11-18T10:32:07.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663599" lon="-4.690499">
+        <ele>26.23048</ele>
+        <time>2021-11-18T10:33:09.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.663599" lon="-4.689896">
+        <ele>25.8667</ele>
+        <time>2021-11-18T10:33:39.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663671" lon="-4.689252">
+        <ele>26.71219</ele>
+        <time>2021-11-18T10:34:17.000Z</time>
+        <name>55.663671,-4.689252</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.663671" lon="-4.688512">
+        <ele>27.80045</ele>
+        <time>2021-11-18T10:35:01.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663708" lon="-4.688243">
+        <ele>28.12326</ele>
+        <time>2021-11-18T10:35:17.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663974" lon="-4.687396">
+        <ele>28.67485</ele>
+        <time>2021-11-18T10:36:11.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663962" lon="-4.687117">
+        <ele>28.6619</ele>
+        <time>2021-11-18T10:36:27.000Z</time>
+      </trkpt>
+      <trkpt lat="55.664736" lon="-4.684832">
+        <ele>31.02195</ele>
+        <time>2021-11-18T10:38:58.000Z</time>
+      </trkpt>
+      <trkpt lat="55.664809" lon="-4.684392">
+        <ele>31.9799</ele>
+        <time>2021-11-18T10:39:27.000Z</time>
+      </trkpt>
+      <trkpt lat="55.664797" lon="-4.68407">
+        <ele>32.58881</ele>
+        <time>2021-11-18T10:39:45.000Z</time>
+      </trkpt>
+      <trkpt lat="55.664706" lon="-4.683802">
+        <ele>32.81828</ele>
+        <time>2021-11-18T10:40:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663865" lon="-4.682192">
+        <ele>30.35908</ele>
+        <time>2021-11-18T10:41:50.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.663814" lon="-4.682265">
+        <ele>30.13083</ele>
+        <time>2021-11-18T10:41:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.663556" lon="-4.682632">
+        <ele>29.2869</ele>
+        <time>2021-11-18T10:42:25.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.662552" lon="-4.679639">
+        <ele>32.35796</ele>
+        <time>2021-11-18T10:45:48.000Z</time>
+        <name>55.662552,-4.679639</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.6624" lon="-4.679371">
+        <ele>32.82631</ele>
+        <time>2021-11-18T10:46:07.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661723" lon="-4.678952">
+        <ele>31.59046</ele>
+        <time>2021-11-18T10:47:10.000Z</time>
+      </trkpt>
+      <trkpt lat="55.661547" lon="-4.678941">
+        <ele>31.33694</ele>
+        <time>2021-11-18T10:47:25.000Z</time>
+      </trkpt>
+      <trkpt lat="55.660772" lon="-4.679145">
+        <ele>31.00906</ele>
+        <time>2021-11-18T10:48:35.000Z</time>
+      </trkpt>
+      <trkpt lat="55.65932" lon="-4.678662">
+        <ele>31.21348</ele>
+        <time>2021-11-18T10:50:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.659005" lon="-4.678963">
+        <ele>30.40393</ele>
+        <time>2021-11-18T10:51:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.65571" lon="-4.680273">
+        <ele>27.81058</ele>
+        <time>2021-11-18T10:56:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.655534" lon="-4.679403">
+        <ele>28.38822</ele>
+        <time>2021-11-18T10:57:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654299" lon="-4.679961">
+        <ele>24.23783</ele>
+        <time>2021-11-18T10:58:54.000Z</time>
+        <name>55.654299,-4.679961</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.654265" lon="-4.679401">
+        <ele>24.79847</ele>
+        <time>2021-11-18T10:59:24.000Z</time>
+      </trkpt>
+      <trkpt lat="55.654268" lon="-4.679522">
+        <ele>24.6712</ele>
+        <time>2021-11-18T10:59:30.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.654204" lon="-4.679505">
+        <ele>24.62668</ele>
+        <time>2021-11-18T10:59:36.000Z</time>
+      </trkpt>
+      <trkpt lat="55.653856" lon="-4.679621">
+        <ele>24.46418</ele>
+        <time>2021-11-18T11:00:09.000Z</time>
+        <name>55.653856,-4.679621</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.653462" lon="-4.679602">
+        <ele>24.65841</ele>
+        <time>2021-11-18T11:00:47.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.653255" lon="-4.679151">
+        <ele>24.84639</ele>
+        <time>2021-11-18T11:01:20.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.65337" lon="-4.678497">
+        <ele>25.98947</ele>
+        <time>2021-11-18T11:01:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.653366" lon="-4.678089">
+        <ele>25.90798</ele>
+        <time>2021-11-18T11:02:16.000Z</time>
+      </trkpt>
+      <trkpt lat="55.653248" lon="-4.677571">
+        <ele>24.92621</ele>
+        <time>2021-11-18T11:02:44.000Z</time>
+        <name>55.653248,-4.677571</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.652458" lon="-4.675755">
+        <ele>21.86906</ele>
+        <time>2021-11-18T11:04:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.652362" lon="-4.67571">
+        <ele>21.68389</ele>
+        <time>2021-11-18T11:04:43.000Z</time>
+      </trkpt>
+      <trkpt lat="55.652023" lon="-4.675782">
+        <ele>21.26399</ele>
+        <time>2021-11-18T11:05:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.651755" lon="-4.67567">
+        <ele>21.21836</ele>
+        <time>2021-11-18T11:05:37.000Z</time>
+        <name>55.651755,-4.675670</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.651332" lon="-4.675782">
+        <ele>21.48227</ele>
+        <time>2021-11-18T11:06:15.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.651267" lon="-4.67485">
+        <ele>21.77403</ele>
+        <time>2021-11-18T11:07:12.000Z</time>
+        <name>55.651267,-4.674850</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.650924" lon="-4.673391">
+        <ele>22.97919</ele>
+        <time>2021-11-18T11:08:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650663" lon="-4.672751">
+        <ele>22.8895</ele>
+        <time>2021-11-18T11:09:22.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650487" lon="-4.671998">
+        <ele>22.30161</ele>
+        <time>2021-11-18T11:10:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.650371" lon="-4.670911">
+        <ele>22.17476</ele>
+        <time>2021-11-18T11:10:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.649613" lon="-4.668039">
+        <ele>22.0358</ele>
+        <time>2021-11-18T11:13:45.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.649527" lon="-4.668056">
+        <ele>21.81819</ele>
+        <time>2021-11-18T11:13:53.000Z</time>
+      </trkpt>
+      <trkpt lat="55.649355" lon="-4.667643">
+        <ele>20.69717</ele>
+        <time>2021-11-18T11:14:17.000Z</time>
+        <name>55.649355,-4.667643</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.649158" lon="-4.667172">
+        <ele>19.22956</ele>
+        <time>2021-11-18T11:14:44.000Z</time>
+      </trkpt>
+      <trkpt lat="55.648723" lon="-4.666349">
+        <ele>19.02463</ele>
+        <time>2021-11-18T11:15:40.000Z</time>
+        <name>55.648723,-4.666349</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.648626" lon="-4.665534">
+        <ele>18.83744</ele>
+        <time>2021-11-18T11:16:23.000Z</time>
+      </trkpt>
+      <trkpt lat="55.648026" lon="-4.664195">
+        <ele>18.26977</ele>
+        <time>2021-11-18T11:17:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647867" lon="-4.663538">
+        <ele>17.46748</ele>
+        <time>2021-11-18T11:18:23.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647872" lon="-4.662256">
+        <ele>17.02928</ele>
+        <time>2021-11-18T11:19:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647805" lon="-4.661583">
+        <ele>17.13035</ele>
+        <time>2021-11-18T11:20:08.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647419" lon="-4.660526">
+        <ele>16.14648</ele>
+        <time>2021-11-18T11:21:09.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647282" lon="-4.660011">
+        <ele>14.61033</ele>
+        <time>2021-11-18T11:21:37.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647264" lon="-4.65968">
+        <ele>14.42109</ele>
+        <time>2021-11-18T11:21:54.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.647312" lon="-4.659615">
+        <ele>14.5025</ele>
+        <time>2021-11-18T11:21:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647406" lon="-4.659447">
+        <ele>14.72387</ele>
+        <time>2021-11-18T11:22:11.000Z</time>
+        <name>55.647406,-4.659447</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.647429" lon="-4.659382">
+        <ele>14.79493</ele>
+        <time>2021-11-18T11:22:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.647462" lon="-4.659292">
+        <ele>14.89362</ele>
+        <time>2021-11-18T11:22:20.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.647233" lon="-4.658747">
+        <ele>14.54595</ele>
+        <time>2021-11-18T11:22:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.646947" lon="-4.657772">
+        <ele>14.32459</ele>
+        <time>2021-11-18T11:23:50.000Z</time>
+        <name>55.646947,-4.657772</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.646523" lon="-4.655626">
+        <ele>16.58126</ele>
+        <time>2021-11-18T11:26:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.646389" lon="-4.655362">
+        <ele>17.43153</ele>
+        <time>2021-11-18T11:26:24.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645608" lon="-4.654259">
+        <ele>17.75359</ele>
+        <time>2021-11-18T11:28:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.645051" lon="-4.654072">
+        <ele>18.27571</ele>
+        <time>2021-11-18T11:28:58.000Z</time>
+      </trkpt>
+      <trkpt lat="55.643789" lon="-4.653973">
+        <ele>18.9104</ele>
+        <time>2021-11-18T11:30:57.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641819" lon="-4.65227">
+        <ele>17.56047</ele>
+        <time>2021-11-18T11:34:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641344" lon="-4.651927">
+        <ele>16.86968</ele>
+        <time>2021-11-18T11:34:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640726" lon="-4.651755">
+        <ele>15.99048</ele>
+        <time>2021-11-18T11:35:52.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640599" lon="-4.651256">
+        <ele>16.18755</ele>
+        <time>2021-11-18T11:36:21.000Z</time>
+        <name>55.640599,-4.651256</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.640508" lon="-4.651068">
+        <ele>16.18168</ele>
+        <time>2021-11-18T11:36:35.000Z</time>
+        <name>Keep left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.640484" lon="-4.650414">
+        <ele>15.85401</ele>
+        <time>2021-11-18T11:37:11.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640429" lon="-4.649834">
+        <ele>15.70053</ele>
+        <time>2021-11-18T11:37:41.000Z</time>
+        <name>55.640429,-4.649834</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.640499" lon="-4.649146">
+        <ele>15.81926</ele>
+        <time>2021-11-18T11:38:14.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640284" lon="-4.648472">
+        <ele>14.96973</ele>
+        <time>2021-11-18T11:38:53.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640078" lon="-4.648322">
+        <ele>14.94764</ele>
+        <time>2021-11-18T11:39:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639836" lon="-4.647914">
+        <ele>14.97675</ele>
+        <time>2021-11-18T11:39:43.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639697" lon="-4.647292">
+        <ele>15.33253</ele>
+        <time>2021-11-18T11:40:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639715" lon="-4.647013">
+        <ele>15.58562</ele>
+        <time>2021-11-18T11:40:36.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639809" lon="-4.646753">
+        <ele>15.8756</ele>
+        <time>2021-11-18T11:40:53.000Z</time>
+      </trkpt>
+      <trkpt lat="55.64019" lon="-4.644908">
+        <ele>15.07848</ele>
+        <time>2021-11-18T11:42:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640802" lon="-4.642783">
+        <ele>15.86367</ele>
+        <time>2021-11-18T11:44:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641329" lon="-4.641281">
+        <ele>17.90081</ele>
+        <time>2021-11-18T11:46:25.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641686" lon="-4.640466">
+        <ele>18.6285</ele>
+        <time>2021-11-18T11:47:22.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641725" lon="-4.640189">
+        <ele>18.36484</ele>
+        <time>2021-11-18T11:47:38.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641702" lon="-4.639934">
+        <ele>18.06459</ele>
+        <time>2021-11-18T11:47:51.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641596" lon="-4.639787">
+        <ele>17.82038</ele>
+        <time>2021-11-18T11:48:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.6411" lon="-4.63972">
+        <ele>19.02857</ele>
+        <time>2021-11-18T11:48:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641023" lon="-4.639647">
+        <ele>19.36219</ele>
+        <time>2021-11-18T11:48:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641051" lon="-4.638752">
+        <ele>19.08796</ele>
+        <time>2021-11-18T11:49:42.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641023" lon="-4.637368">
+        <ele>20.24422</ele>
+        <time>2021-11-18T11:51:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640893" lon="-4.636316">
+        <ele>22.15212</ele>
+        <time>2021-11-18T11:52:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640777" lon="-4.635986">
+        <ele>23.06166</ele>
+        <time>2021-11-18T11:52:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640027" lon="-4.635426">
+        <ele>26.08056</ele>
+        <time>2021-11-18T11:54:05.000Z</time>
+        <name>55.640027,-4.635426</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.640093" lon="-4.635482">
+        <ele>25.93821</ele>
+        <time>2021-11-18T11:54:12.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.639866" lon="-4.635903">
+        <ele>26.16608</ele>
+        <time>2021-11-18T11:54:43.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639868" lon="-4.636086">
+        <ele>26.19739</ele>
+        <time>2021-11-18T11:54:52.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639972" lon="-4.636595">
+        <ele>26.09641</ele>
+        <time>2021-11-18T11:55:18.000Z</time>
+        <name>55.639972,-4.636595</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.63953" lon="-4.637518">
+        <ele>26.9096</ele>
+        <time>2021-11-18T11:56:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639108" lon="-4.638113">
+        <ele>29.84502</ele>
+        <time>2021-11-18T11:57:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638918" lon="-4.638693">
+        <ele>30.16695</ele>
+        <time>2021-11-18T11:58:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638543" lon="-4.639138">
+        <ele>29.2794</ele>
+        <time>2021-11-18T11:58:56.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.638464" lon="-4.6391">
+        <ele>29.21752</ele>
+        <time>2021-11-18T11:59:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638543" lon="-4.639138">
+        <ele>29.2794</ele>
+        <time>2021-11-18T11:59:11.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638513" lon="-4.639433">
+        <ele>29.22027</ele>
+        <time>2021-11-18T11:59:27.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.638525" lon="-4.63998">
+        <ele>29.26195</ele>
+        <time>2021-11-18T11:59:53.000Z</time>
+        <name>55.638525,-4.639980</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.638498" lon="-4.640608">
+        <ele>27.68798</ele>
+        <time>2021-11-18T12:00:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638437" lon="-4.641482">
+        <ele>25.36069</ele>
+        <time>2021-11-18T12:01:00.000Z</time>
+        <name>55.638437,-4.641482</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.638304" lon="-4.643124">
+        <ele>22.30968</ele>
+        <time>2021-11-18T12:02:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638367" lon="-4.644534">
+        <ele>19.41039</ele>
+        <time>2021-11-18T12:03:28.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638268" lon="-4.645259">
+        <ele>19.02864</ele>
+        <time>2021-11-18T12:04:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638004" lon="-4.646455">
+        <ele>19.9534</ele>
+        <time>2021-11-18T12:05:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638216" lon="-4.647335">
+        <ele>19.35998</ele>
+        <time>2021-11-18T12:06:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638249" lon="-4.648204">
+        <ele>19.21789</ele>
+        <time>2021-11-18T12:06:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638101" lon="-4.648788">
+        <ele>19.94211</ele>
+        <time>2021-11-18T12:07:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.637677" lon="-4.649491">
+        <ele>19.64741</ele>
+        <time>2021-11-18T12:08:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.637562" lon="-4.650054">
+        <ele>19.03569</ele>
+        <time>2021-11-18T12:08:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.637559" lon="-4.65029">
+        <ele>19.23956</ele>
+        <time>2021-11-18T12:09:00.000Z</time>
+      </trkpt>
+      <trkpt lat="55.637417" lon="-4.6508">
+        <ele>20.09956</ele>
+        <time>2021-11-18T12:09:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638092" lon="-4.654169">
+        <ele>15.94845</ele>
+        <time>2021-11-18T12:12:25.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638758" lon="-4.656277">
+        <ele>16.8315</ele>
+        <time>2021-11-18T12:14:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638776" lon="-4.656508">
+        <ele>16.96213</ele>
+        <time>2021-11-18T12:14:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.6387" lon="-4.656765">
+        <ele>17.27696</ele>
+        <time>2021-11-18T12:15:08.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638549" lon="-4.657141">
+        <ele>18.28925</ele>
+        <time>2021-11-18T12:15:38.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638478" lon="-4.657213">
+        <ele>18.45082</ele>
+        <time>2021-11-18T12:15:46.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.638573" lon="-4.658171">
+        <ele>20.37332</ele>
+        <time>2021-11-18T12:16:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638918" lon="-4.659469">
+        <ele>19.82075</ele>
+        <time>2021-11-18T12:17:55.000Z</time>
+        <name>55.638918,-4.659469</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.639018" lon="-4.660225">
+        <ele>19.69509</ele>
+        <time>2021-11-18T12:18:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638879" lon="-4.661373">
+        <ele>18.59256</ele>
+        <time>2021-11-18T12:19:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638797" lon="-4.661652">
+        <ele>18.4247</ele>
+        <time>2021-11-18T12:19:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.63877" lon="-4.662865">
+        <ele>17.13432</ele>
+        <time>2021-11-18T12:20:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.638861" lon="-4.664053">
+        <ele>16.00301</ele>
+        <time>2021-11-18T12:21:46.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639076" lon="-4.665091">
+        <ele>16.36778</ele>
+        <time>2021-11-18T12:22:43.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639106" lon="-4.665617">
+        <ele>15.26426</ele>
+        <time>2021-11-18T12:23:09.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639161" lon="-4.665847">
+        <ele>14.93626</ele>
+        <time>2021-11-18T12:23:22.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639364" lon="-4.666234">
+        <ele>15.04492</ele>
+        <time>2021-11-18T12:23:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.639388" lon="-4.666582">
+        <ele>14.32218</ele>
+        <time>2021-11-18T12:24:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640123" lon="-4.669307">
+        <ele>12.14668</ele>
+        <time>2021-11-18T12:26:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.640354" lon="-4.669812">
+        <ele>12.29537</ele>
+        <time>2021-11-18T12:27:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641009" lon="-4.670649">
+        <ele>13.62794</ele>
+        <time>2021-11-18T12:28:34.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.641309" lon="-4.67102">
+        <ele>14.14091</ele>
+        <time>2021-11-18T12:29:13.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.64135" lon="-4.671755">
+        <ele>13.60107</ele>
+        <time>2021-11-18T12:29:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.641204" lon="-4.671743">
+        <ele>13.47219</ele>
+        <time>2021-11-18T12:30:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.6412" lon="-4.671893">
+        <ele>13.23566</ele>
+        <time>2021-11-18T12:30:11.000Z</time>
+        <name>FINISH</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

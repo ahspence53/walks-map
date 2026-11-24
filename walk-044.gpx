@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>WALK 44. Prestwick to Irvine coastal walk.</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/236887365"/>
+    <time>2026-03-19T09:37:31.901Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>WALK 44. Prestwick to Irvine coastal walk.</name>
+    <desc>Prestwick to Irvine coastal walk.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.501922" lon="-4.619718">
+        <ele>4.96889</ele>
+        <time>2022-03-03T00:00:00.000Z</time>
+        <name>Start on</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.501924" lon="-4.61969">
+        <ele>5.05994</ele>
+        <time>2022-03-03T00:00:01.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.501693" lon="-4.619678">
+        <ele>5.0437</ele>
+        <time>2022-03-03T00:00:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.501256" lon="-4.62009">
+        <ele>3.8689</ele>
+        <time>2022-03-03T00:01:00.000Z</time>
+      </trkpt>
+      <trkpt lat="55.5012" lon="-4.620072">
+        <ele>4.00643</ele>
+        <time>2022-03-03T00:01:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.501158" lon="-4.619957">
+        <ele>4.50439</ele>
+        <time>2022-03-03T00:01:11.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.501176" lon="-4.619318">
+        <ele>6.04618</ele>
+        <time>2022-03-03T00:01:40.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.502319" lon="-4.619614">
+        <ele>5.5187</ele>
+        <time>2022-03-03T00:03:12.000Z</time>
+        <name>55.502319,-4.619614</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.502556" lon="-4.619528">
+        <ele>6.02676</ele>
+        <time>2022-03-03T00:03:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.50295" lon="-4.619563">
+        <ele>5.75786</ele>
+        <time>2022-03-03T00:04:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.50422" lon="-4.620175">
+        <ele>7.51892</ele>
+        <time>2022-03-03T00:05:49.000Z</time>
+        <name>55.504220,-4.620175</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.504783" lon="-4.620314">
+        <ele>6.17224</ele>
+        <time>2022-03-03T00:06:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.505558" lon="-4.620754">
+        <ele>7.57918</ele>
+        <time>2022-03-03T00:07:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.505966" lon="-4.621062">
+        <ele>8.96986</ele>
+        <time>2022-03-03T00:08:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.507098" lon="-4.62165">
+        <ele>10.60048</ele>
+        <time>2022-03-03T00:09:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.507304" lon="-4.621698">
+        <ele>11.3679</ele>
+        <time>2022-03-03T00:10:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.50838" lon="-4.622465">
+        <ele>12.01169</ele>
+        <time>2022-03-03T00:11:39.000Z</time>
+      </trkpt>
+      <trkpt lat="55.510005" lon="-4.623764">
+        <ele>10.77415</ele>
+        <time>2022-03-03T00:14:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.510494" lon="-4.624279">
+        <ele>10.87519</ele>
+        <time>2022-03-03T00:14:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.511528" lon="-4.625166">
+        <ele>10.76428</ele>
+        <time>2022-03-03T00:16:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.512156" lon="-4.625645">
+        <ele>7.40789</ele>
+        <time>2022-03-03T00:17:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.512663" lon="-4.625885">
+        <ele>9.22004</ele>
+        <time>2022-03-03T00:17:57.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.512686" lon="-4.625792">
+        <ele>9.24779</ele>
+        <time>2022-03-03T00:18:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.513098" lon="-4.624161">
+        <ele>6.23025</ele>
+        <time>2022-03-03T00:19:23.000Z</time>
+        <name>55.513098,-4.624161</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.513333" lon="-4.623691">
+        <ele>4.53537</ele>
+        <time>2022-03-03T00:19:51.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.513841" lon="-4.622894">
+        <ele>3.71795</ele>
+        <time>2022-03-03T00:20:46.000Z</time>
+      </trkpt>
+      <trkpt lat="55.514307" lon="-4.622418">
+        <ele>-0.28317</ele>
+        <time>2022-03-03T00:21:29.000Z</time>
+        <name>55.514307,-4.622418</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.514667" lon="-4.62179">
+        <ele>2.6026</ele>
+        <time>2022-03-03T00:22:10.000Z</time>
+      </trkpt>
+      <trkpt lat="55.514911" lon="-4.621876">
+        <ele>2.56988</ele>
+        <time>2022-03-03T00:22:30.000Z</time>
+      </trkpt>
+      <trkpt lat="55.515304" lon="-4.622305">
+        <ele>0.30358</ele>
+        <time>2022-03-03T00:23:07.000Z</time>
+      </trkpt>
+      <trkpt lat="55.515541" lon="-4.622326">
+        <ele>3.03713</ele>
+        <time>2022-03-03T00:23:26.000Z</time>
+        <name>55.515541,-4.622326</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.515666" lon="-4.622186">
+        <ele>4.22776</ele>
+        <time>2022-03-03T00:23:38.000Z</time>
+      </trkpt>
+      <trkpt lat="55.515887" lon="-4.621441">
+        <ele>5.29294</ele>
+        <time>2022-03-03T00:24:16.000Z</time>
+        <name>Turn sharp</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.515936" lon="-4.621681">
+        <ele>5.00358</ele>
+        <time>2022-03-03T00:24:27.000Z</time>
+      </trkpt>
+      <trkpt lat="55.516536" lon="-4.624278">
+        <ele>4.03917</ele>
+        <time>2022-03-03T00:26:35.000Z</time>
+        <name>55.516536,-4.624278</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.518329" lon="-4.625624">
+        <ele>3.78307</ele>
+        <time>2022-03-03T00:29:11.000Z</time>
+      </trkpt>
+      <trkpt lat="55.518953" lon="-4.626689">
+        <ele>3.89705</ele>
+        <time>2022-03-03T00:30:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519239" lon="-4.627848">
+        <ele>4.46726</ele>
+        <time>2022-03-03T00:31:18.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519287" lon="-4.628352">
+        <ele>4.29852</ele>
+        <time>2022-03-03T00:31:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519195" lon="-4.628727">
+        <ele>1.47098</ele>
+        <time>2022-03-03T00:31:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519191" lon="-4.629201">
+        <ele>0.27696</ele>
+        <time>2022-03-03T00:32:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519419" lon="-4.631793">
+        <ele>1.02573</ele>
+        <time>2022-03-03T00:34:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.519459" lon="-4.632709">
+        <ele>1.04361</ele>
+        <time>2022-03-03T00:35:02.000Z</time>
+      </trkpt>
+      <trkpt lat="55.520416" lon="-4.635076">
+        <ele>2.40714</ele>
+        <time>2022-03-03T00:37:14.000Z</time>
+      </trkpt>
+      <trkpt lat="55.523564" lon="-4.640977">
+        <ele>2.04417</ele>
+        <time>2022-03-03T00:43:21.000Z</time>
+        <name>55.523564,-4.640977</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.523782" lon="-4.640753">
+        <ele>4.33081</ele>
+        <time>2022-03-03T00:43:42.000Z</time>
+      </trkpt>
+      <trkpt lat="55.523925" lon="-4.64044">
+        <ele>6.47291</ele>
+        <time>2022-03-03T00:44:00.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.524216" lon="-4.640976">
+        <ele>6.01947</ele>
+        <time>2022-03-03T00:44:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.52428" lon="-4.641256">
+        <ele>5.62831</ele>
+        <time>2022-03-03T00:44:47.000Z</time>
+      </trkpt>
+      <trkpt lat="55.524938" lon="-4.642808">
+        <ele>5.0653</ele>
+        <time>2022-03-03T00:46:15.000Z</time>
+        <name>55.524938,-4.642808</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.526031" lon="-4.645483">
+        <ele>4.16738</ele>
+        <time>2022-03-03T00:48:45.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526101" lon="-4.646044">
+        <ele>3.55953</ele>
+        <time>2022-03-03T00:49:12.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526345" lon="-4.646498">
+        <ele>4.4174</ele>
+        <time>2022-03-03T00:49:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526514" lon="-4.646965">
+        <ele>4.28762</ele>
+        <time>2022-03-03T00:50:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526545" lon="-4.647289">
+        <ele>3.73682</ele>
+        <time>2022-03-03T00:50:20.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526683" lon="-4.647768">
+        <ele>3.72169</ele>
+        <time>2022-03-03T00:50:44.000Z</time>
+      </trkpt>
+      <trkpt lat="55.526686" lon="-4.647955">
+        <ele>3.59608</ele>
+        <time>2022-03-03T00:50:53.000Z</time>
+      </trkpt>
+      <trkpt lat="55.52676" lon="-4.647999">
+        <ele>3.80151</ele>
+        <time>2022-03-03T00:50:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.527692" lon="-4.649799">
+        <ele>2.40745</ele>
+        <time>2022-03-03T00:52:50.000Z</time>
+      </trkpt>
+      <trkpt lat="55.527823" lon="-4.649689">
+        <ele>2.84539</ele>
+        <time>2022-03-03T00:53:01.000Z</time>
+      </trkpt>
+      <trkpt lat="55.530086" lon="-4.651543">
+        <ele>3.02172</ele>
+        <time>2022-03-03T00:56:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.530461" lon="-4.651913">
+        <ele>3.03793</ele>
+        <time>2022-03-03T00:56:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.530554" lon="-4.651844">
+        <ele>3.43073</ele>
+        <time>2022-03-03T00:57:04.000Z</time>
+      </trkpt>
+      <trkpt lat="55.532269" lon="-4.652588">
+        <ele>4.02848</ele>
+        <time>2022-03-03T00:59:25.000Z</time>
+        <name>55.532269,-4.652588</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.532217" lon="-4.652686">
+        <ele>3.68236</ele>
+        <time>2022-03-03T00:59:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.532971" lon="-4.653066">
+        <ele>4.00318</ele>
+        <time>2022-03-03T01:00:34.000Z</time>
+      </trkpt>
+      <trkpt lat="55.533298" lon="-4.653317">
+        <ele>2.70476</ele>
+        <time>2022-03-03T01:01:03.000Z</time>
+      </trkpt>
+      <trkpt lat="55.533313" lon="-4.653249">
+        <ele>2.89512</ele>
+        <time>2022-03-03T01:01:07.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.534674" lon="-4.653902">
+        <ele>4.1284</ele>
+        <time>2022-03-03T01:03:00.000Z</time>
+        <name>55.534674,-4.653902</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.535627" lon="-4.654529">
+        <ele>3.8189</ele>
+        <time>2022-03-03T01:04:21.000Z</time>
+      </trkpt>
+      <trkpt lat="55.536808" lon="-4.655463">
+        <ele>5.247</ele>
+        <time>2022-03-03T01:06:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.537777" lon="-4.656403">
+        <ele>4.83261</ele>
+        <time>2022-03-03T01:07:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.539367" lon="-4.658243">
+        <ele>4.52213</ele>
+        <time>2022-03-03T01:10:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.540404" lon="-4.659785">
+        <ele>5.63039</ele>
+        <time>2022-03-03T01:11:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.541665" lon="-4.6622">
+        <ele>4.43546</ele>
+        <time>2022-03-03T01:14:24.000Z</time>
+      </trkpt>
+      <trkpt lat="55.541826" lon="-4.662595">
+        <ele>3.84206</ele>
+        <time>2022-03-03T01:14:46.000Z</time>
+      </trkpt>
+      <trkpt lat="55.541979" lon="-4.663176">
+        <ele>4.06342</ele>
+        <time>2022-03-03T01:15:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.541951" lon="-4.663533">
+        <ele>3.5906</ele>
+        <time>2022-03-03T01:15:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.54201" lon="-4.664033">
+        <ele>3.93733</ele>
+        <time>2022-03-03T01:15:55.000Z</time>
+      </trkpt>
+      <trkpt lat="55.542018" lon="-4.664697">
+        <ele>4.05713</ele>
+        <time>2022-03-03T01:16:25.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.542411" lon="-4.664721">
+        <ele>4.04633</ele>
+        <time>2022-03-03T01:16:56.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.542934" lon="-4.665533">
+        <ele>3.63508</ele>
+        <time>2022-03-03T01:17:52.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54296" lon="-4.665481">
+        <ele>3.62402</ele>
+        <time>2022-03-03T01:17:55.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54305" lon="-4.665623">
+        <ele>3.62736</ele>
+        <time>2022-03-03T01:18:05.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.543006" lon="-4.665554">
+        <ele>3.62978</ele>
+        <time>2022-03-03T01:18:10.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.543792" lon="-4.663987">
+        <ele>3.41452</ele>
+        <time>2022-03-03T01:19:45.000Z</time>
+        <name>55.543792,-4.663987</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.543827" lon="-4.663918">
+        <ele>3.44868</ele>
+        <time>2022-03-03T01:19:49.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.543783" lon="-4.663851">
+        <ele>3.4491</ele>
+        <time>2022-03-03T01:19:54.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.544587" lon="-4.662238">
+        <ele>3.30944</ele>
+        <time>2022-03-03T01:21:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.544588" lon="-4.662206">
+        <ele>3.31033</ele>
+        <time>2022-03-03T01:21:33.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.544645" lon="-4.662079">
+        <ele>3.34495</ele>
+        <time>2022-03-03T01:21:40.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.545464" lon="-4.660447">
+        <ele>3.12883</ele>
+        <time>2022-03-03T01:23:20.000Z</time>
+        <name>Keep left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.545491" lon="-4.660381">
+        <ele>3.11299</ele>
+        <time>2022-03-03T01:23:24.000Z</time>
+        <name>Turn left</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.545544" lon="-4.660465">
+        <ele>3.1716</ele>
+        <time>2022-03-03T01:23:30.000Z</time>
+        <name>55.545544,-4.660465</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.546439" lon="-4.661854">
+        <ele>3.62223</ele>
+        <time>2022-03-03T01:25:05.000Z</time>
+      </trkpt>
+      <trkpt lat="55.546656" lon="-4.66206">
+        <ele>3.71837</ele>
+        <time>2022-03-03T01:25:25.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54671" lon="-4.661862">
+        <ele>3.64514</ele>
+        <time>2022-03-03T01:25:35.000Z</time>
+      </trkpt>
+      <trkpt lat="55.546694" lon="-4.661918">
+        <ele>3.66056</ele>
+        <time>2022-03-03T01:25:38.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.546745" lon="-4.661957">
+        <ele>3.62986</ele>
+        <time>2022-03-03T01:25:42.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54712" lon="-4.660837">
+        <ele>3.6486</ele>
+        <time>2022-03-03T01:26:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.547503" lon="-4.659908">
+        <ele>2.50842</ele>
+        <time>2022-03-03T01:27:33.000Z</time>
+        <name>55.547503,-4.659908</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54802" lon="-4.658999">
+        <ele>2.96773</ele>
+        <time>2022-03-03T01:28:32.000Z</time>
+      </trkpt>
+      <trkpt lat="55.548765" lon="-4.658103">
+        <ele>3.81868</ele>
+        <time>2022-03-03T01:29:44.000Z</time>
+      </trkpt>
+      <trkpt lat="55.549729" lon="-4.657517">
+        <ele>4.03757</ele>
+        <time>2022-03-03T01:31:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.55046" lon="-4.657264">
+        <ele>3.93182</ele>
+        <time>2022-03-03T01:32:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.551638" lon="-4.657007">
+        <ele>3.93668</ele>
+        <time>2022-03-03T01:33:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.551966" lon="-4.65704">
+        <ele>3.78227</ele>
+        <time>2022-03-03T01:34:07.000Z</time>
+      </trkpt>
+      <trkpt lat="55.55224" lon="-4.656959">
+        <ele>3.79269</ele>
+        <time>2022-03-03T01:34:29.000Z</time>
+      </trkpt>
+      <trkpt lat="55.552941" lon="-4.65705">
+        <ele>4.00901</ele>
+        <time>2022-03-03T01:35:26.000Z</time>
+      </trkpt>
+      <trkpt lat="55.553346" lon="-4.657462">
+        <ele>3.33975</ele>
+        <time>2022-03-03T01:36:03.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.55369" lon="-4.657355">
+        <ele>3.19785</ele>
+        <time>2022-03-03T01:36:31.000Z</time>
+      </trkpt>
+      <trkpt lat="55.554969" lon="-4.65753">
+        <ele>3.30998</ele>
+        <time>2022-03-03T01:38:14.000Z</time>
+        <name>55.554969,-4.657530</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.555486" lon="-4.657817">
+        <ele>3.57295</ele>
+        <time>2022-03-03T01:38:57.000Z</time>
+      </trkpt>
+      <trkpt lat="55.556417" lon="-4.657647">
+        <ele>3.54779</ele>
+        <time>2022-03-03T01:40:13.000Z</time>
+      </trkpt>
+      <trkpt lat="55.557839" lon="-4.65754">
+        <ele>3.64973</ele>
+        <time>2022-03-03T01:42:07.000Z</time>
+      </trkpt>
+      <trkpt lat="55.559508" lon="-4.657166">
+        <ele>3.55557</ele>
+        <time>2022-03-03T01:44:22.000Z</time>
+        <name>55.559508,-4.657166</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.559642" lon="-4.657073">
+        <ele>3.52876</ele>
+        <time>2022-03-03T01:44:33.000Z</time>
+      </trkpt>
+      <trkpt lat="55.559809" lon="-4.656844">
+        <ele>3.623</ele>
+        <time>2022-03-03T01:44:50.000Z</time>
+        <name>Turn sligh</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.560169" lon="-4.65684">
+        <ele>3.18047</ele>
+        <time>2022-03-03T01:45:19.000Z</time>
+      </trkpt>
+      <trkpt lat="55.559809" lon="-4.656844">
+        <ele>3.623</ele>
+        <time>2022-03-03T01:45:48.000Z</time>
+      </trkpt>
+      <trkpt lat="55.562104" lon="-4.657998">
+        <ele>3.83984</ele>
+        <time>2022-03-03T01:48:59.000Z</time>
+        <name>55.562104,-4.657998</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.564409" lon="-4.658642">
+        <ele>3.12029</ele>
+        <time>2022-03-03T01:52:06.000Z</time>
+      </trkpt>
+      <trkpt lat="55.56528" lon="-4.658787">
+        <ele>2.86151</ele>
+        <time>2022-03-03T01:53:16.000Z</time>
+      </trkpt>
+      <trkpt lat="55.569491" lon="-4.657643">
+        <ele>0.78553</ele>
+        <time>2022-03-03T01:58:58.000Z</time>
+      </trkpt>
+      <trkpt lat="55.570747" lon="-4.657956">
+        <ele>4.71094</ele>
+        <time>2022-03-03T02:00:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.573102" lon="-4.658868">
+        <ele>6.04552</ele>
+        <time>2022-03-03T02:03:53.000Z</time>
+      </trkpt>
+      <trkpt lat="55.576049" lon="-4.660442">
+        <ele>4.22614</ele>
+        <time>2022-03-03T02:07:59.000Z</time>
+      </trkpt>
+      <trkpt lat="55.580465" lon="-4.663232">
+        <ele>5.05553</ele>
+        <time>2022-03-03T02:14:15.000Z</time>
+      </trkpt>
+      <trkpt lat="55.582278" lon="-4.664734">
+        <ele>4.48667</ele>
+        <time>2022-03-03T02:16:56.000Z</time>
+      </trkpt>
+      <trkpt lat="55.584885" lon="-4.666568">
+        <ele>6.75544</ele>
+        <time>2022-03-03T02:20:41.000Z</time>
+      </trkpt>
+      <trkpt lat="55.590276" lon="-4.671128">
+        <ele>5.42886</ele>
+        <time>2022-03-03T02:28:40.000Z</time>
+      </trkpt>
+      <trkpt lat="55.596738" lon="-4.679647">
+        <ele>8.29302</ele>
+        <time>2022-03-03T02:39:25.000Z</time>
+      </trkpt>
+      <trkpt lat="55.598811" lon="-4.682544">
+        <ele>13.92694</ele>
+        <time>2022-03-03T02:42:57.000Z</time>
+      </trkpt>
+      <trkpt lat="55.599743" lon="-4.683129">
+        <ele>5.95263</ele>
+        <time>2022-03-03T02:44:16.000Z</time>
+      </trkpt>
+      <trkpt lat="55.599852" lon="-4.68314">
+        <ele>5.73831</ele>
+        <time>2022-03-03T02:44:25.000Z</time>
+        <name>Turn right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599889" lon="-4.683077">
+        <ele>5.72422</ele>
+        <time>2022-03-03T02:44:29.000Z</time>
+        <name>Keep right</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599905" lon="-4.68238">
+        <ele>5.02268</ele>
+        <time>2022-03-03T02:45:01.000Z</time>
+        <name>55.599905,-4.682380</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.599963" lon="-4.68206">
+        <ele>4.26198</ele>
+        <time>2022-03-03T02:45:16.000Z</time>
+        <name>55.599963,-4.682060</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.600284" lon="-4.681373">
+        <ele>5.12026</ele>
+        <time>2022-03-03T13:00:00.000Z</time>
+        <name>FINISH</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
