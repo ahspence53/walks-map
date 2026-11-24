@@ -82,6 +82,13 @@ document.getElementById('walkSearch').addEventListener('submit', event => {
   map.setView(match.marker.getLatLng(), 13);
   match.marker.fire('click');
 });
+function gpxFileName(walkNumber) {
+  // Pad the whole-number part, preserving decimal walk numbers (e.g. 73.5 -> 073.5).
+  const [whole, decimal] = String(walkNumber).split('.');
+  const paddedNumber = whole.padStart(3, '0') + (decimal !== undefined ? `.${decimal}` : '');
+  return `walk-${paddedNumber}.gpx`;
+}
+
 function showRoute(feature, marker) {
   const p = feature.properties || {};
   if (!p.walkNumber) {
@@ -93,7 +100,7 @@ function showRoute(feature, marker) {
     map.removeLayer(activeRoute);
     activeRoute = null;
   }
-  const fileName = `walk-${String(p.walkNumber).padStart(3, '0')}.gpx`;
+  const fileName = gpxFileName(p.walkNumber);
   statusEl.textContent = `Loading route for ${p.name}…`;
   const route = new L.GPX(fileName, {
     async: true,
@@ -122,7 +129,7 @@ async function findAvailableGpxFiles(features) {
     .map(feature => feature.properties && feature.properties.walkNumber)
     .filter(number => Number.isFinite(number)))];
   const checks = await Promise.all(walkNumbers.map(async number => {
-    const fileName = `walk-${String(number).padStart(3, '0')}.gpx`;
+    const fileName = gpxFileName(number);
     try {
       const response = await fetch(fileName, { method: 'HEAD', cache: 'no-store' });
       return response.ok ? number : null;
