@@ -98,15 +98,15 @@ function showRoute(feature, marker) {
   const route = new L.GPX(fileName, {
     async: true,
     marker_options: {
-      startIconUrl: '', // Hide the GPX start pin; the numbered uMap marker identifies the walk start.
+      startIconUrl: '',
       endIconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-icon-end.png',
       shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/pin-shadow.png'
     },
     polyline_options: { color: '#d12d2d', weight: 4, opacity: 0.85 }
   });
-  // Remove only the GPX start marker; keep the finish marker and route line.
+  // Remove only the GPX-generated start marker; keep the route and finish marker.
   route.on('addpoint', event => {
-    if (event.point_type === 'start' && event.point) {
+    if (event.point_type === 'start') {
       route.removeLayer(event.point);
     }
   });
