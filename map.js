@@ -104,15 +104,22 @@ function showRoute(feature, marker) {
     },
     polyline_options: { color: '#d12d2d', weight: 4, opacity: 0.85 }
   });
-  // Remove only the GPX-generated start marker; keep the route and finish marker.
+  // Remember the GPX-generated start marker so it can be removed
+  // after the GPX layer has been added to the map.
+  let gpxStartMarker = null;
   route.on('addpoint', event => {
     if (event.point_type === 'start') {
-      route.removeLayer(event.point);
+      gpxStartMarker = event.point;
     }
   });
   route.on('loaded', event => {
     if (requestId !== routeRequest) return;
     activeRoute = event.target.addTo(map);
+    // Remove the start pin from the map; leave the route and finish marker.
+    if (gpxStartMarker) {
+      map.removeLayer(gpxStartMarker);
+      gpxStartMarker = null;
+    }
     map.fitBounds(event.target.getBounds(), { padding: [24, 24] });
     statusEl.textContent = `Showing GPX route: ${p.name}`;
     marker.openPopup();
