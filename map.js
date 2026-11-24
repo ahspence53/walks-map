@@ -104,6 +104,12 @@ function showRoute(feature, marker) {
     },
     polyline_options: { color: '#d12d2d', weight: 4, opacity: 0.85 }
   });
+  // Remove only the GPX start marker; keep the finish marker and route line.
+  route.on('addpoint', event => {
+    if (event.point_type === 'start' && event.point) {
+      route.removeLayer(event.point);
+    }
+  });
   route.on('loaded', event => {
     if (requestId !== routeRequest) return;
     activeRoute = event.target.addTo(map);
