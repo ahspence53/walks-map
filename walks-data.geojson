@@ -4,11 +4,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.295311,
-          55.469221
-        ],
-        "type": "Point"
+          -4.291556,
+          55.464854
+        ]
       },
       "properties": {
         "name": "Walk 1. Auchinleck to Ochiltree.",
@@ -32,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.506969,
-          55.58732
+          -4.530272,
+          55.584749
         ]
       },
       "properties": {
@@ -56,11 +56,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.7612,
-          55.40407
-        ],
-        "type": "Point"
+          -4.742961,
+          55.412622
+        ]
       },
       "properties": {
         "name": "Walk 3. Dunure to Brown Carrick hill",
@@ -82,11 +82,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.344234,
-          55.71222
-        ],
-        "type": "Point"
+          -4.322176,
+          55.670857
+        ]
       },
       "properties": {
         "name": "Walk 4. Waterside to Whitelee",
@@ -160,11 +160,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.281406,
-          55.607954
-        ],
-        "type": "Point"
+          -4.281514,
+          55.605293
+        ]
       },
       "properties": {
         "name": "Walk 7. Newmilns, Darvel and the hills above Lanfine.",
@@ -186,11 +186,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.281578,
-          55.609008
-        ],
-        "type": "Point"
+          -4.265206,
+          55.619394
+        ]
       },
       "properties": {
         "name": "Walk 8. Darvel, Newmilns and Irvine valley north",
