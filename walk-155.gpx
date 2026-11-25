@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Symington To Craigie</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/334011673"/>
+    <time>2026-03-19T09:33:33.500Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Symington To Craigie</name>
+    <desc>Walk between the villages of Symington and Craigie</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.5498" lon="-4.5635">
+        <ele>87.37505</ele>
+        <name>Main Street, South Ayrshire</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.549816" lon="-4.563466">
+        <ele>87.3878</ele>
+      </trkpt>
+      <trkpt lat="55.549769" lon="-4.563394">
+        <ele>87.63727</ele>
+      </trkpt>
+      <trkpt lat="55.549633" lon="-4.563301">
+        <ele>88.20848</ele>
+      </trkpt>
+      <trkpt lat="55.549342" lon="-4.563194">
+        <ele>89.31502</ele>
+        <name>Turn right</name>
+        <desc>Turn right onto Kerrix Road</desc>
+        <sym>Right</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.549219" lon="-4.563513">
+        <ele>89.93153</ele>
+      </trkpt>
+      <trkpt lat="55.549057" lon="-4.56407">
+        <ele>89.21761</ele>
+      </trkpt>
+      <trkpt lat="55.548618" lon="-4.564813">
+        <ele>89.38322</ele>
+      </trkpt>
+      <trkpt lat="55.548055" lon="-4.565768">
+        <ele>89.34888</ele>
+      </trkpt>
+      <trkpt lat="55.547954" lon="-4.566053">
+        <ele>88.96302</ele>
+      </trkpt>
+      <trkpt lat="55.54785" lon="-4.56681">
+        <ele>87.64972</ele>
+      </trkpt>
+      <trkpt lat="55.547747" lon="-4.567202">
+        <ele>87.36293</ele>
+      </trkpt>
+      <trkpt lat="55.547594" lon="-4.567614">
+        <ele>87.14057</ele>
+      </trkpt>
+      <trkpt lat="55.547002" lon="-4.568671">
+        <ele>87.82363</ele>
+      </trkpt>
+      <trkpt lat="55.546187" lon="-4.570048">
+        <ele>88.02595</ele>
+      </trkpt>
+      <trkpt lat="55.545083" lon="-4.572431">
+        <ele>83.47022</ele>
+      </trkpt>
+      <trkpt lat="55.544865" lon="-4.573169">
+        <ele>81.43353</ele>
+      </trkpt>
+      <trkpt lat="55.544395" lon="-4.575231">
+        <ele>75.27967</ele>
+      </trkpt>
+      <trkpt lat="55.54431" lon="-4.575696">
+        <ele>73.65981</ele>
+      </trkpt>
+      <trkpt lat="55.544271" lon="-4.57625">
+        <ele>70.94185</ele>
+      </trkpt>
+      <trkpt lat="55.545221" lon="-4.579857">
+        <ele>62.24091</ele>
+        <name>Turn left</name>
+        <desc>Turn left onto Kerrix Road</desc>
+        <sym>Left</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.54514" lon="-4.580024">
+        <ele>61.93891</ele>
+      </trkpt>
+      <trkpt lat="55.544741" lon="-4.580474">
+        <ele>62.19771</ele>
+      </trkpt>
+      <trkpt lat="55.544672" lon="-4.580652">
+        <ele>61.93945</ele>
+      </trkpt>
+      <trkpt lat="55.544697" lon="-4.581165">
+        <ele>62.06801</ele>
+      </trkpt>
+      <trkpt lat="55.54462" lon="-4.58145">
+        <ele>62.84831</ele>
+      </trkpt>
+      <trkpt lat="55.544493" lon="-4.581674">
+        <ele>62.87161</ele>
+      </trkpt>
+      <trkpt lat="55.5443" lon="-4.581786">
+        <ele>63.66137</ele>
+      </trkpt>
+      <trkpt lat="55.543918" lon="-4.581781">
+        <ele>63.69002</ele>
+      </trkpt>
+      <trkpt lat="55.543501" lon="-4.582106">
+        <ele>62.55517</ele>
+        <name>Turn left</name>
+        <desc>Turn left</desc>
+        <sym>Left</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.543403" lon="-4.58194">
+        <ele>62.52963</ele>
+      </trkpt>
+      <trkpt lat="55.543178" lon="-4.58145">
+        <ele>62.58169</ele>
+      </trkpt>
+      <trkpt lat="55.541315" lon="-4.57882">
+        <ele>66.34949</ele>
+      </trkpt>
+      <trkpt lat="55.541266" lon="-4.578625">
+        <ele>65.99339</ele>
+      </trkpt>
+      <trkpt lat="55.541383" lon="-4.578107">
+        <ele>66.40865</ele>
+      </trkpt>
+      <trkpt lat="55.541032" lon="-4.577743">
+        <ele>67.97156</ele>
+      </trkpt>
+      <trkpt lat="55.540912" lon="-4.577742">
+        <ele>67.70901</ele>
+      </trkpt>
+      <trkpt lat="55.540956" lon="-4.576449">
+        <ele>68.39831</ele>
+      </trkpt>
+      <trkpt lat="55.540422" lon="-4.575591">
+        <ele>65.40543</ele>
+      </trkpt>
+      <trkpt lat="55.539827" lon="-4.575033">
+        <ele>63.00877</ele>
+      </trkpt>
+      <trkpt lat="55.538819" lon="-4.574454">
+        <ele>62.22723</ele>
+      </trkpt>
+      <trkpt lat="55.537214" lon="-4.572248">
+        <ele>71.68825</ele>
+        <name>Turn left</name>
+        <desc>Turn left</desc>
+        <sym>Left</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.537729" lon="-4.571506">
+        <ele>74.23369</ele>
+      </trkpt>
+      <trkpt lat="55.538637" lon="-4.570196">
+        <ele>75.40194</ele>
+      </trkpt>
+      <trkpt lat="55.539007" lon="-4.569733">
+        <ele>75.91037</ele>
+      </trkpt>
+      <trkpt lat="55.538828" lon="-4.569304">
+        <ele>76.56375</ele>
+      </trkpt>
+      <trkpt lat="55.538503" lon="-4.569744">
+        <ele>75.98884</ele>
+      </trkpt>
+      <trkpt lat="55.536087" lon="-4.573274">
+        <ele>66.78194</ele>
+      </trkpt>
+      <trkpt lat="55.535893" lon="-4.573252">
+        <ele>65.09958</ele>
+      </trkpt>
+      <trkpt lat="55.53588" lon="-4.573214">
+        <ele>64.86639</ele>
+      </trkpt>
+      <trkpt lat="55.535158" lon="-4.571975">
+        <ele>61.82917</ele>
+      </trkpt>
+      <trkpt lat="55.534161" lon="-4.570264">
+        <ele>54.3268</ele>
+      </trkpt>
+      <trkpt lat="55.533316" lon="-4.568802">
+        <ele>48.17942</ele>
+      </trkpt>
+      <trkpt lat="55.532919" lon="-4.568139">
+        <ele>45.47304</ele>
+      </trkpt>
+      <trkpt lat="55.532513" lon="-4.567508">
+        <ele>44.56153</ele>
+        <name>Turn left</name>
+        <desc>Turn left</desc>
+        <sym>Left</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.532567" lon="-4.566615">
+        <ele>44.41145</ele>
+      </trkpt>
+      <trkpt lat="55.532641" lon="-4.566225">
+        <ele>44.29404</ele>
+      </trkpt>
+      <trkpt lat="55.532821" lon="-4.565568">
+        <ele>44.88772</ele>
+      </trkpt>
+      <trkpt lat="55.532825" lon="-4.565337">
+        <ele>45.5732</ele>
+      </trkpt>
+      <trkpt lat="55.532735" lon="-4.565178">
+        <ele>45.90609</ele>
+      </trkpt>
+      <trkpt lat="55.531864" lon="-4.564326">
+        <ele>49.80401</ele>
+      </trkpt>
+      <trkpt lat="55.531721" lon="-4.564015">
+        <ele>50.44083</ele>
+      </trkpt>
+      <trkpt lat="55.530973" lon="-4.561632">
+        <ele>47.62296</ele>
+      </trkpt>
+      <trkpt lat="55.530761" lon="-4.561213">
+        <ele>48.13025</ele>
+      </trkpt>
+      <trkpt lat="55.527832" lon="-4.556651">
+        <ele>53.7501</ele>
+        <name>Turn left</name>
+        <desc>Turn left</desc>
+        <sym>Left</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.528124" lon="-4.554853">
+        <ele>53.94062</ele>
+      </trkpt>
+      <trkpt lat="55.528255" lon="-4.554349">
+        <ele>53.77049</ele>
+      </trkpt>
+      <trkpt lat="55.528391" lon="-4.553905">
+        <ele>54.08499</ele>
+      </trkpt>
+      <trkpt lat="55.528878" lon="-4.552725">
+        <ele>55.1617</ele>
+      </trkpt>
+      <trkpt lat="55.528971" lon="-4.552457">
+        <ele>55.39899</ele>
+      </trkpt>
+      <trkpt lat="55.529733" lon="-4.55021">
+        <ele>60.05981</ele>
+      </trkpt>
+      <trkpt lat="55.5298" lon="-4.550097">
+        <ele>59.96458</ele>
+      </trkpt>
+      <trkpt lat="55.530311" lon="-4.549542">
+        <ele>60.20055</ele>
+      </trkpt>
+      <trkpt lat="55.530475" lon="-4.549289">
+        <ele>60.73807</ele>
+      </trkpt>
+      <trkpt lat="55.530728" lon="-4.548646">
+        <ele>63.45194</ele>
+      </trkpt>
+      <trkpt lat="55.53074" lon="-4.54822">
+        <ele>66.64776</ele>
+      </trkpt>
+      <trkpt lat="55.530724" lon="-4.547765">
+        <ele>67.96889</ele>
+      </trkpt>
+      <trkpt lat="55.53074" lon="-4.547036">
+        <ele>65.42933</ele>
+      </trkpt>
+      <trkpt lat="55.530822" lon="-4.546725">
+        <ele>66.40517</ele>
+      </trkpt>
+      <trkpt lat="55.532433" lon="-4.542233">
+        <ele>77.46641</ele>
+      </trkpt>
+      <trkpt lat="55.532576" lon="-4.541894">
+        <ele>78.10555</ele>
+      </trkpt>
+      <trkpt lat="55.53276" lon="-4.541655">
+        <ele>78.30693</ele>
+      </trkpt>
+      <trkpt lat="55.532993" lon="-4.541511">
+        <ele>76.43811</ele>
+      </trkpt>
+      <trkpt lat="55.533475" lon="-4.541265">
+        <ele>76.26084</ele>
+      </trkpt>
+      <trkpt lat="55.533712" lon="-4.541099">
+        <ele>77.07982</ele>
+      </trkpt>
+      <trkpt lat="55.534528" lon="-4.540357">
+        <ele>76.07554</ele>
+      </trkpt>
+      <trkpt lat="55.534934" lon="-4.540081">
+        <ele>74.73655</ele>
+      </trkpt>
+      <trkpt lat="55.536189" lon="-4.539438">
+        <ele>73.85965</ele>
+      </trkpt>
+      <trkpt lat="55.536401" lon="-4.539142">
+        <ele>74.39927</ele>
+      </trkpt>
+      <trkpt lat="55.536977" lon="-4.538051">
+        <ele>79.00448</ele>
+      </trkpt>
+      <trkpt lat="55.537112" lon="-4.537654">
+        <ele>80.26374</ele>
+      </trkpt>
+      <trkpt lat="55.537284" lon="-4.536852">
+        <ele>82.07638</ele>
+      </trkpt>
+      <trkpt lat="55.537419" lon="-4.53647">
+        <ele>83.70855</ele>
+      </trkpt>
+      <trkpt lat="55.538118" lon="-4.534874">
+        <ele>89.04793</ele>
+      </trkpt>
+      <trkpt lat="55.538212" lon="-4.534527">
+        <ele>90.32611</ele>
+      </trkpt>
+      <trkpt lat="55.538298" lon="-4.533812">
+        <ele>92.55188</ele>
+      </trkpt>
+      <trkpt lat="55.538386" lon="-4.533403">
+        <ele>93.86106</ele>
+      </trkpt>
+      <trkpt lat="55.538555" lon="-4.53297">
+        <ele>95.69891</ele>
+      </trkpt>
+      <trkpt lat="55.538653" lon="-4.532779">
+        <ele>95.47532</ele>
+      </trkpt>
+      <trkpt lat="55.538816" lon="-4.532585">
+        <ele>95.95243</ele>
+      </trkpt>
+      <trkpt lat="55.539003" lon="-4.532558">
+        <ele>95.40628</ele>
+      </trkpt>
+      <trkpt lat="55.539133" lon="-4.532609">
+        <ele>94.80329</ele>
+      </trkpt>
+      <trkpt lat="55.539287" lon="-4.532577">
+        <ele>93.47656</ele>
+      </trkpt>
+      <trkpt lat="55.539446" lon="-4.53236">
+        <ele>91.81067</ele>
+      </trkpt>
+      <trkpt lat="55.539605" lon="-4.532238">
+        <ele>90.02044</ele>
+      </trkpt>
+      <trkpt lat="55.539761" lon="-4.532266">
+        <ele>88.55129</ele>
+      </trkpt>
+      <trkpt lat="55.539944" lon="-4.532375">
+        <ele>86.6635</ele>
+      </trkpt>
+      <trkpt lat="55.540271" lon="-4.532678">
+        <ele>82.45922</ele>
+      </trkpt>
+      <trkpt lat="55.540431" lon="-4.532671">
+        <ele>81.46443</ele>
+      </trkpt>
+      <trkpt lat="55.540606" lon="-4.532591">
+        <ele>79.4631</ele>
+      </trkpt>
+      <trkpt lat="55.541027" lon="-4.532461">
+        <ele>76.02416</ele>
+      </trkpt>
+      <trkpt lat="55.542245" lon="-4.531219">
+        <ele>74.57615</ele>
+      </trkpt>
+      <trkpt lat="55.542523" lon="-4.531104">
+        <ele>76.5917</ele>
+      </trkpt>
+      <trkpt lat="55.542654" lon="-4.531111">
+        <ele>76.28679</ele>
+      </trkpt>
+      <trkpt lat="55.543679" lon="-4.531718">
+        <ele>77.96112</ele>
+      </trkpt>
+      <trkpt lat="55.543896" lon="-4.531761">
+        <ele>79.95414</ele>
+      </trkpt>
+      <trkpt lat="55.54797" lon="-4.531039">
+        <ele>79.59938</ele>
+      </trkpt>
+      <trkpt lat="55.548219" lon="-4.530894">
+        <ele>80.13004</ele>
+      </trkpt>
+      <trkpt lat="55.548632" lon="-4.530526">
+        <ele>82.35012</ele>
+      </trkpt>
+      <trkpt lat="55.54939" lon="-4.529737">
+        <ele>85.28077</ele>
+        <name>Turn right</name>
+        <desc>Turn right onto B730</desc>
+        <sym>Right</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.549254" lon="-4.528492">
+        <ele>88.69704</ele>
+      </trkpt>
+      <trkpt lat="55.549214" lon="-4.527916">
+        <ele>89.04087</ele>
+      </trkpt>
+      <trkpt lat="55.549215" lon="-4.527519">
+        <ele>90.37365</ele>
+      </trkpt>
+      <trkpt lat="55.549238" lon="-4.527029">
+        <ele>91.45976</ele>
+      </trkpt>
+      <trkpt lat="55.549237" lon="-4.526362">
+        <ele>89.83926</ele>
+      </trkpt>
+      <trkpt lat="55.549284" lon="-4.525543">
+        <ele>92.53905</ele>
+      </trkpt>
+      <trkpt lat="55.54931" lon="-4.525085">
+        <ele>91.83094</ele>
+      </trkpt>
+      <trkpt lat="55.549311" lon="-4.524275">
+        <ele>90.29144</ele>
+      </trkpt>
+      <trkpt lat="55.549291" lon="-4.523907">
+        <ele>90.55032</ele>
+      </trkpt>
+      <trkpt lat="55.548517" lon="-4.520893">
+        <ele>88.91428</ele>
+      </trkpt>
+      <trkpt lat="55.547451" lon="-4.517011">
+        <ele>88.28595</ele>
+        <name>Turn sharp</name>
+        <desc>Turn sharp right</desc>
+        <sym>Right_sharp</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.547368" lon="-4.516705">
+        <ele>89.60004</ele>
+      </trkpt>
+      <trkpt lat="55.547451" lon="-4.517011">
+        <ele>88.28595</ele>
+      </trkpt>
+      <trkpt lat="55.547568" lon="-4.51682">
+        <ele>88.63727</ele>
+      </trkpt>
+      <trkpt lat="55.549067" lon="-4.513632">
+        <ele>95.67399</ele>
+      </trkpt>
+      <trkpt lat="55.550473" lon="-4.510617">
+        <ele>106.62906</ele>
+      </trkpt>
+      <trkpt lat="55.552047" lon="-4.507298">
+        <ele>119.27394</ele>
+      </trkpt>
+      <trkpt lat="55.55228" lon="-4.506927">
+        <ele>120.31927</ele>
+      </trkpt>
+      <trkpt lat="55.552978" lon="-4.506133">
+        <ele>123.31086</ele>
+      </trkpt>
+      <trkpt lat="55.553194" lon="-4.505799">
+        <ele>124.32168</ele>
+      </trkpt>
+      <trkpt lat="55.555302" lon="-4.50149">
+        <ele>128.84444</ele>
+      </trkpt>
+      <trkpt lat="55.555576" lon="-4.500992">
+        <ele>128.19908</ele>
+      </trkpt>
+      <trkpt lat="55.555722" lon="-4.500788">
+        <ele>128.45816</ele>
+      </trkpt>
+      <trkpt lat="55.556758" lon="-4.499383">
+        <ele>126.05659</ele>
+      </trkpt>
+      <trkpt lat="55.557643" lon="-4.498129">
+        <ele>128.55302</ele>
+      </trkpt>
+      <trkpt lat="55.557973" lon="-4.497499">
+        <ele>128.54325</ele>
+      </trkpt>
+      <trkpt lat="55.558193" lon="-4.496897">
+        <ele>129.56925</ele>
+      </trkpt>
+      <trkpt lat="55.558471" lon="-4.495976">
+        <ele>131.00009</ele>
+        <name>Craigie, South Ayrshire</name>
+        <extensions>
+          <oa:locType>calcStopPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.55875" lon="-4.494789">
+        <ele>133.4847</ele>
+        <name>FINISH</name>
+        <desc>FINISH</desc>
+        <sym>Flag, Blue</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

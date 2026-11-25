@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Irvine Valley West.</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/338893342"/>
+    <time>2026-05-14T05:54:11.695Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Irvine Valley West.</name>
+    <desc>Irvine Valley  West.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.598505" lon="-4.379934">
+        <ele>51.13232</ele>
+        <name>Barr Castle, East Ayrshire</name>
+        <desc>Start on Barr Street</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.597894" lon="-4.380456">
+        <ele>51.702</ele>
+      </trkpt>
+      <trkpt lat="55.597677" lon="-4.380638">
+        <ele>52.16193</ele>
+      </trkpt>
+      <trkpt lat="55.597307" lon="-4.381003">
+        <ele>53.43349</ele>
+        <name>Cemetery Road, East Ayrshire</name>
+        <desc>Turn sharp right onto Glebe Road</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.597337" lon="-4.381027">
+        <ele>53.48392</ele>
+      </trkpt>
+      <trkpt lat="55.596792" lon="-4.380703">
+        <ele>52.61153</ele>
+      </trkpt>
+      <trkpt lat="55.596513" lon="-4.380209">
+        <ele>53.15422</ele>
+      </trkpt>
+      <trkpt lat="55.596337" lon="-4.379823">
+        <ele>54.18001</ele>
+      </trkpt>
+      <trkpt lat="55.596061" lon="-4.37911">
+        <ele>56.09728</ele>
+      </trkpt>
+      <trkpt lat="55.595759" lon="-4.377948">
+        <ele>56.73057</ele>
+      </trkpt>
+      <trkpt lat="55.595672" lon="-4.377612">
+        <ele>57.74902</ele>
+      </trkpt>
+      <trkpt lat="55.595234" lon="-4.375896">
+        <ele>57.73203</ele>
+      </trkpt>
+      <trkpt lat="55.595179" lon="-4.375424">
+        <ele>58.73963</ele>
+      </trkpt>
+      <trkpt lat="55.595143" lon="-4.373858">
+        <ele>61.51814</ele>
+      </trkpt>
+      <trkpt lat="55.5951" lon="-4.373482">
+        <ele>62.13742</ele>
+      </trkpt>
+      <trkpt lat="55.594961" lon="-4.372969">
+        <ele>63.60476</ele>
+        <name>Cemetery Road, East Ayrshire</name>
+        <desc>Turn right</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.594999" lon="-4.372816">
+        <ele>64.20845</ele>
+      </trkpt>
+      <trkpt lat="55.5951" lon="-4.372656">
+        <ele>64.47286</ele>
+      </trkpt>
+      <trkpt lat="55.595295" lon="-4.372431">
+        <ele>65.77663</ele>
+        <name>B7037, East Ayrshire</name>
+        <desc>Turn right onto B7037</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.595156" lon="-4.372049">
+        <ele>66.62462</ele>
+      </trkpt>
+      <trkpt lat="55.595034" lon="-4.371819">
+        <ele>66.63242</ele>
+      </trkpt>
+      <trkpt lat="55.594852" lon="-4.371575">
+        <ele>66.71727</ele>
+      </trkpt>
+      <trkpt lat="55.594775" lon="-4.371534">
+        <ele>67.17774</ele>
+        <name>B7037, East Ayrshire</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.594438" lon="-4.369992">
+        <ele>71.69547</ele>
+      </trkpt>
+      <trkpt lat="55.594244" lon="-4.369559">
+        <ele>72.77158</ele>
+      </trkpt>
+      <trkpt lat="55.594223" lon="-4.36893">
+        <ele>81.84021</ele>
+      </trkpt>
+      <trkpt lat="55.594197" lon="-4.368738">
+        <ele>83.65065</ele>
+      </trkpt>
+      <trkpt lat="55.594065" lon="-4.368308">
+        <ele>85.3371</ele>
+      </trkpt>
+      <trkpt lat="55.593931" lon="-4.368046">
+        <ele>80.3751</ele>
+      </trkpt>
+      <trkpt lat="55.593655" lon="-4.367871">
+        <ele>79.2861</ele>
+      </trkpt>
+      <trkpt lat="55.59349" lon="-4.367509">
+        <ele>87.17491</ele>
+      </trkpt>
+      <trkpt lat="55.593138" lon="-4.367204">
+        <ele>88.84877</ele>
+      </trkpt>
+      <trkpt lat="55.592968" lon="-4.366868">
+        <ele>90.58082</ele>
+      </trkpt>
+      <trkpt lat="55.592688" lon="-4.366671">
+        <ele>91.26134</ele>
+      </trkpt>
+      <trkpt lat="55.592328" lon="-4.366475">
+        <ele>91.40132</ele>
+      </trkpt>
+      <trkpt lat="55.592027" lon="-4.366027">
+        <ele>92.30549</ele>
+      </trkpt>
+      <trkpt lat="55.591834" lon="-4.365448">
+        <ele>92.63224</ele>
+      </trkpt>
+      <trkpt lat="55.591735" lon="-4.365">
+        <ele>94.85573</ele>
+      </trkpt>
+      <trkpt lat="55.591699" lon="-4.364485">
+        <ele>96.40274</ele>
+      </trkpt>
+      <trkpt lat="55.591727" lon="-4.364044">
+        <ele>96.87313</ele>
+      </trkpt>
+      <trkpt lat="55.591659" lon="-4.363358">
+        <ele>98.18465</ele>
+      </trkpt>
+      <trkpt lat="55.591476" lon="-4.362781">
+        <ele>97.98615</ele>
+      </trkpt>
+      <trkpt lat="55.59153" lon="-4.362374">
+        <ele>101.37061</ele>
+      </trkpt>
+      <trkpt lat="55.591652" lon="-4.362101">
+        <ele>103.615</ele>
+      </trkpt>
+      <trkpt lat="55.591697" lon="-4.36169">
+        <ele>106.48155</ele>
+      </trkpt>
+      <trkpt lat="55.591723" lon="-4.361349">
+        <ele>106.18106</ele>
+      </trkpt>
+      <trkpt lat="55.591728" lon="-4.360914">
+        <ele>107.0081</ele>
+      </trkpt>
+      <trkpt lat="55.591707" lon="-4.360538">
+        <ele>106.39891</ele>
+      </trkpt>
+      <trkpt lat="55.591635" lon="-4.360373">
+        <ele>103.95683</ele>
+      </trkpt>
+      <trkpt lat="55.591586" lon="-4.360359">
+        <ele>102.24121</ele>
+      </trkpt>
+      <trkpt lat="55.591466" lon="-4.360808">
+        <ele>98.04366</ele>
+      </trkpt>
+      <trkpt lat="55.591215" lon="-4.361155">
+        <ele>92.71839</ele>
+      </trkpt>
+      <trkpt lat="55.591192" lon="-4.361123">
+        <ele>92.58103</ele>
+        <name>East Ayrshire, Scotland</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.591325" lon="-4.36078">
+        <ele>94.74192</ele>
+      </trkpt>
+      <trkpt lat="55.591464" lon="-4.360179">
+        <ele>98.48383</ele>
+      </trkpt>
+      <trkpt lat="55.59162" lon="-4.35906">
+        <ele>105.60575</ele>
+      </trkpt>
+      <trkpt lat="55.591692" lon="-4.358899">
+        <ele>107.0217</ele>
+        <name>East Ayrshire, Scotland</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.591739" lon="-4.358987">
+        <ele>107.06033</ele>
+      </trkpt>
+      <trkpt lat="55.592021" lon="-4.35919">
+        <ele>108.89861</ele>
+      </trkpt>
+      <trkpt lat="55.592065" lon="-4.359281">
+        <ele>108.55447</ele>
+      </trkpt>
+      <trkpt lat="55.592083" lon="-4.359419">
+        <ele>108.39128</ele>
+      </trkpt>
+      <trkpt lat="55.592037" lon="-4.360102">
+        <ele>107.55806</ele>
+      </trkpt>
+      <trkpt lat="55.592049" lon="-4.360261">
+        <ele>107.25861</ele>
+      </trkpt>
+      <trkpt lat="55.592102" lon="-4.360386">
+        <ele>106.98585</ele>
+      </trkpt>
+      <trkpt lat="55.59289" lon="-4.360921">
+        <ele>103.03416</ele>
+      </trkpt>
+      <trkpt lat="55.593906" lon="-4.361552">
+        <ele>102.9471</ele>
+      </trkpt>
+      <trkpt lat="55.594179" lon="-4.361702">
+        <ele>102.87201</ele>
+      </trkpt>
+      <trkpt lat="55.594343" lon="-4.361756">
+        <ele>103.09168</ele>
+      </trkpt>
+      <trkpt lat="55.594773" lon="-4.361541">
+        <ele>104.75966</ele>
+      </trkpt>
+      <trkpt lat="55.594937" lon="-4.36153">
+        <ele>104.76726</ele>
+      </trkpt>
+      <trkpt lat="55.595113" lon="-4.361605">
+        <ele>104.21093</ele>
+        <name>East Ayrshire, Scotland</name>
+        <desc>Turn right</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.595276" lon="-4.36005">
+        <ele>101.16481</ele>
+      </trkpt>
+      <trkpt lat="55.595337" lon="-4.359256">
+        <ele>98.7745</ele>
+      </trkpt>
+      <trkpt lat="55.595446" lon="-4.359041">
+        <ele>98.38972</ele>
+      </trkpt>
+      <trkpt lat="55.596404" lon="-4.357625">
+        <ele>100.27955</ele>
+      </trkpt>
+      <trkpt lat="55.59684" lon="-4.354621">
+        <ele>96.63692</ele>
+      </trkpt>
+      <trkpt lat="55.596889" lon="-4.354385">
+        <ele>96.09895</ele>
+      </trkpt>
+      <trkpt lat="55.597653" lon="-4.353891">
+        <ele>92.24741</ele>
+      </trkpt>
+      <trkpt lat="55.597725" lon="-4.35372">
+        <ele>91.65638</ele>
+      </trkpt>
+      <trkpt lat="55.597834" lon="-4.353162">
+        <ele>90.99931</ele>
+      </trkpt>
+      <trkpt lat="55.597956" lon="-4.353055">
+        <ele>91.43036</ele>
+      </trkpt>
+      <trkpt lat="55.598271" lon="-4.35284">
+        <ele>91.5821</ele>
+      </trkpt>
+      <trkpt lat="55.599071" lon="-4.352733">
+        <ele>92.30631</ele>
+      </trkpt>
+      <trkpt lat="55.599168" lon="-4.35269">
+        <ele>92.97938</ele>
+      </trkpt>
+      <trkpt lat="55.599253" lon="-4.352561">
+        <ele>92.99532</ele>
+      </trkpt>
+      <trkpt lat="55.599423" lon="-4.351789">
+        <ele>96.46307</ele>
+      </trkpt>
+      <trkpt lat="55.599636" lon="-4.350584">
+        <ele>104.84266</ele>
+      </trkpt>
+      <trkpt lat="55.599811" lon="-4.349407">
+        <ele>107.60149</ele>
+      </trkpt>
+      <trkpt lat="55.600085" lon="-4.348031">
+        <ele>104.65075</ele>
+      </trkpt>
+      <trkpt lat="55.600502" lon="-4.345759">
+        <ele>100.57877</ele>
+      </trkpt>
+      <trkpt lat="55.600708" lon="-4.344986">
+        <ele>99.25096</ele>
+      </trkpt>
+      <trkpt lat="55.601193" lon="-4.343527">
+        <ele>90.77988</ele>
+      </trkpt>
+      <trkpt lat="55.601617" lon="-4.341103">
+        <ele>79.00784</ele>
+      </trkpt>
+      <trkpt lat="55.601738" lon="-4.340888">
+        <ele>78.45491</ele>
+      </trkpt>
+      <trkpt lat="55.602162" lon="-4.339521">
+        <ele>71.14197</ele>
+      </trkpt>
+      <trkpt lat="55.602259" lon="-4.339504">
+        <ele>70.73603</ele>
+      </trkpt>
+      <trkpt lat="55.602514" lon="-4.339643">
+        <ele>68.12507</ele>
+      </trkpt>
+      <trkpt lat="55.60315" lon="-4.339788">
+        <ele>61.45866</ele>
+        <name>Strath Crescent, East Ayrshire</name>
+        <desc>Turn left onto Strath Crescent</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603145" lon="-4.34004">
+        <ele>61.2568</ele>
+      </trkpt>
+      <trkpt lat="55.603368" lon="-4.340868">
+        <ele>60.23446</ele>
+      </trkpt>
+      <trkpt lat="55.603428" lon="-4.341127">
+        <ele>60.26366</ele>
+      </trkpt>
+      <trkpt lat="55.603436" lon="-4.341686">
+        <ele>59.92855</ele>
+        <name>Stratholm Terrace, East Ayrshire</name>
+        <desc>Turn right</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603773" lon="-4.341733">
+        <ele>59.62868</ele>
+        <name>Irvine Road, East Ayrshire</name>
+        <desc>Turn left onto Irvine Road</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603755" lon="-4.342644">
+        <ele>59.09232</ele>
+      </trkpt>
+      <trkpt lat="55.603767" lon="-4.344619">
+        <ele>58.49064</ele>
+      </trkpt>
+      <trkpt lat="55.603821" lon="-4.344848">
+        <ele>58.11216</ele>
+      </trkpt>
+      <trkpt lat="55.603871" lon="-4.34494">
+        <ele>58.07002</ele>
+      </trkpt>
+      <trkpt lat="55.603997" lon="-4.345018">
+        <ele>58.17793</ele>
+      </trkpt>
+      <trkpt lat="55.604088" lon="-4.34501">
+        <ele>58.20325</ele>
+      </trkpt>
+      <trkpt lat="55.604281" lon="-4.345458">
+        <ele>58.53094</ele>
+      </trkpt>
+      <trkpt lat="55.604287" lon="-4.345403">
+        <ele>58.57353</ele>
+      </trkpt>
+      <trkpt lat="55.604341" lon="-4.345421">
+        <ele>58.50988</ele>
+        <name>A71, East Ayrshire</name>
+        <desc>Turn left onto Loudoun Road</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.604222" lon="-4.346221">
+        <ele>58.15938</ele>
+      </trkpt>
+      <trkpt lat="55.604173" lon="-4.346718">
+        <ele>57.62974</ele>
+      </trkpt>
+      <trkpt lat="55.604127" lon="-4.347441">
+        <ele>57.42718</ele>
+      </trkpt>
+      <trkpt lat="55.604138" lon="-4.347948">
+        <ele>57.12286</ele>
+      </trkpt>
+      <trkpt lat="55.604207" lon="-4.348792">
+        <ele>56.77225</ele>
+      </trkpt>
+      <trkpt lat="55.604331" lon="-4.350659">
+        <ele>54.90342</ele>
+        <name>A71, East Ayrshire</name>
+        <desc>Turn right</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.60438" lon="-4.350651">
+        <ele>54.77265</ele>
+      </trkpt>
+      <trkpt lat="55.60554" lon="-4.350885">
+        <ele>56.59408</ele>
+      </trkpt>
+      <trkpt lat="55.605887" lon="-4.350935">
+        <ele>58.0401</ele>
+      </trkpt>
+      <trkpt lat="55.606451" lon="-4.350886">
+        <ele>62.19683</ele>
+      </trkpt>
+      <trkpt lat="55.608789" lon="-4.350687">
+        <ele>87.3261</ele>
+      </trkpt>
+      <trkpt lat="55.611197" lon="-4.350476">
+        <ele>103.88122</ele>
+      </trkpt>
+      <trkpt lat="55.611524" lon="-4.350472">
+        <ele>105.67138</ele>
+        <name>East Ayrshire, Scotland</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.611607" lon="-4.350682">
+        <ele>105.71699</ele>
+      </trkpt>
+      <trkpt lat="55.611713" lon="-4.350776">
+        <ele>105.84271</ele>
+      </trkpt>
+      <trkpt lat="55.612124" lon="-4.35057">
+        <ele>108.37058</ele>
+      </trkpt>
+      <trkpt lat="55.612307" lon="-4.350521">
+        <ele>109.79619</ele>
+      </trkpt>
+      <trkpt lat="55.612494" lon="-4.350554">
+        <ele>111.15997</ele>
+      </trkpt>
+      <trkpt lat="55.613586" lon="-4.350914">
+        <ele>115.96611</ele>
+      </trkpt>
+      <trkpt lat="55.613707" lon="-4.350983">
+        <ele>115.65618</ele>
+      </trkpt>
+      <trkpt lat="55.613816" lon="-4.351093">
+        <ele>114.60877</ele>
+      </trkpt>
+      <trkpt lat="55.613991" lon="-4.351383">
+        <ele>112.92048</ele>
+      </trkpt>
+      <trkpt lat="55.614052" lon="-4.351552">
+        <ele>112.59975</ele>
+      </trkpt>
+      <trkpt lat="55.614045" lon="-4.352247">
+        <ele>109.0906</ele>
+      </trkpt>
+      <trkpt lat="55.614072" lon="-4.3524">
+        <ele>109.23489</ele>
+      </trkpt>
+      <trkpt lat="55.614159" lon="-4.352558">
+        <ele>109.60906</ele>
+      </trkpt>
+      <trkpt lat="55.614331" lon="-4.352756">
+        <ele>108.95838</ele>
+      </trkpt>
+      <trkpt lat="55.61438" lon="-4.352872">
+        <ele>108.28312</ele>
+      </trkpt>
+      <trkpt lat="55.614395" lon="-4.353266">
+        <ele>108.29724</ele>
+      </trkpt>
+      <trkpt lat="55.614433" lon="-4.353409">
+        <ele>109.36413</ele>
+      </trkpt>
+      <trkpt lat="55.614635" lon="-4.353624">
+        <ele>112.80944</ele>
+      </trkpt>
+      <trkpt lat="55.61478" lon="-4.353698">
+        <ele>114.24354</ele>
+      </trkpt>
+      <trkpt lat="55.615008" lon="-4.353766">
+        <ele>117.43638</ele>
+      </trkpt>
+      <trkpt lat="55.615513" lon="-4.353819">
+        <ele>121.32745</ele>
+      </trkpt>
+      <trkpt lat="55.617657" lon="-4.353908">
+        <ele>139.00683</ele>
+      </trkpt>
+      <trkpt lat="55.617805" lon="-4.354038">
+        <ele>140.13958</ele>
+      </trkpt>
+      <trkpt lat="55.617999" lon="-4.35447">
+        <ele>141.84429</ele>
+        <name>East Ayrshire, Scotland</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.617976" lon="-4.354911">
+        <ele>142.21145</ele>
+      </trkpt>
+      <trkpt lat="55.617919" lon="-4.355131">
+        <ele>142.51441</ele>
+      </trkpt>
+      <trkpt lat="55.616378" lon="-4.357966">
+        <ele>133.71223</ele>
+      </trkpt>
+      <trkpt lat="55.615761" lon="-4.359146">
+        <ele>130.43002</ele>
+      </trkpt>
+      <trkpt lat="55.6157" lon="-4.359331">
+        <ele>130.21082</ele>
+      </trkpt>
+      <trkpt lat="55.61556" lon="-4.360013">
+        <ele>128.76326</ele>
+      </trkpt>
+      <trkpt lat="55.615474" lon="-4.360607">
+        <ele>128.23095</ele>
+      </trkpt>
+      <trkpt lat="55.615451" lon="-4.361133">
+        <ele>129.62761</ele>
+      </trkpt>
+      <trkpt lat="55.615531" lon="-4.36341">
+        <ele>135.19485</ele>
+      </trkpt>
+      <trkpt lat="55.615531" lon="-4.363792">
+        <ele>135.83865</ele>
+      </trkpt>
+      <trkpt lat="55.615507" lon="-4.363992">
+        <ele>136.2127</ele>
+      </trkpt>
+      <trkpt lat="55.615407" lon="-4.364445">
+        <ele>136.34104</ele>
+      </trkpt>
+      <trkpt lat="55.615256" lon="-4.36504">
+        <ele>135.66598</ele>
+      </trkpt>
+      <trkpt lat="55.614924" lon="-4.36618">
+        <ele>132.10497</ele>
+      </trkpt>
+      <trkpt lat="55.614869" lon="-4.366885">
+        <ele>129.55576</ele>
+      </trkpt>
+      <trkpt lat="55.614811" lon="-4.368349">
+        <ele>126.94116</ele>
+      </trkpt>
+      <trkpt lat="55.614821" lon="-4.368793">
+        <ele>126.46401</ele>
+      </trkpt>
+      <trkpt lat="55.614854" lon="-4.369242">
+        <ele>125.61896</ele>
+      </trkpt>
+      <trkpt lat="55.615133" lon="-4.371288">
+        <ele>125.54537</ele>
+      </trkpt>
+      <trkpt lat="55.615227" lon="-4.372219">
+        <ele>124.24973</ele>
+      </trkpt>
+      <trkpt lat="55.615227" lon="-4.372527">
+        <ele>123.30998</ele>
+      </trkpt>
+      <trkpt lat="55.615156" lon="-4.373657">
+        <ele>118.88109</ele>
+      </trkpt>
+      <trkpt lat="55.615093" lon="-4.375971">
+        <ele>110.05905</ele>
+      </trkpt>
+      <trkpt lat="55.615128" lon="-4.376711">
+        <ele>108.27901</ele>
+      </trkpt>
+      <trkpt lat="55.615241" lon="-4.377379">
+        <ele>105.18062</ele>
+      </trkpt>
+      <trkpt lat="55.61535" lon="-4.377784">
+        <ele>103.79408</ele>
+      </trkpt>
+      <trkpt lat="55.615514" lon="-4.378205">
+        <ele>105.15277</ele>
+      </trkpt>
+      <trkpt lat="55.615577" lon="-4.378436">
+        <ele>106.40214</ele>
+      </trkpt>
+      <trkpt lat="55.615617" lon="-4.378729">
+        <ele>106.75318</ele>
+      </trkpt>
+      <trkpt lat="55.615568" lon="-4.379656">
+        <ele>108.19694</ele>
+      </trkpt>
+      <trkpt lat="55.615355" lon="-4.381478">
+        <ele>103.79232</ele>
+      </trkpt>
+      <trkpt lat="55.615333" lon="-4.381756">
+        <ele>103.62667</ele>
+        <name>A719, East Ayrshire</name>
+        <desc>Turn left onto A719</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.614603" lon="-4.381649">
+        <ele>101.0455</ele>
+      </trkpt>
+      <trkpt lat="55.613946" lon="-4.381554">
+        <ele>102.23143</ele>
+      </trkpt>
+      <trkpt lat="55.613674" lon="-4.381556">
+        <ele>101.74546</ele>
+      </trkpt>
+      <trkpt lat="55.613068" lon="-4.381643">
+        <ele>98.97554</ele>
+      </trkpt>
+      <trkpt lat="55.612786" lon="-4.381742">
+        <ele>96.83751</ele>
+      </trkpt>
+      <trkpt lat="55.612619" lon="-4.381856">
+        <ele>95.58144</ele>
+      </trkpt>
+      <trkpt lat="55.612456" lon="-4.382027">
+        <ele>93.70275</ele>
+      </trkpt>
+      <trkpt lat="55.611675" lon="-4.383124">
+        <ele>83.89008</ele>
+      </trkpt>
+      <trkpt lat="55.611387" lon="-4.383468">
+        <ele>81.28753</ele>
+      </trkpt>
+      <trkpt lat="55.611117" lon="-4.383722">
+        <ele>78.95379</ele>
+      </trkpt>
+      <trkpt lat="55.610873" lon="-4.383867">
+        <ele>76.82072</ele>
+      </trkpt>
+      <trkpt lat="55.61071" lon="-4.383905">
+        <ele>75.84478</ele>
+      </trkpt>
+      <trkpt lat="55.610525" lon="-4.383899">
+        <ele>74.69203</ele>
+      </trkpt>
+      <trkpt lat="55.610248" lon="-4.383774">
+        <ele>72.29549</ele>
+      </trkpt>
+      <trkpt lat="55.609981" lon="-4.383543">
+        <ele>69.28003</ele>
+      </trkpt>
+      <trkpt lat="55.609839" lon="-4.383392">
+        <ele>67.69632</ele>
+      </trkpt>
+      <trkpt lat="55.609435" lon="-4.383012">
+        <ele>63.9795</ele>
+      </trkpt>
+      <trkpt lat="55.609069" lon="-4.382722">
+        <ele>61.64888</ele>
+      </trkpt>
+      <trkpt lat="55.6085" lon="-4.382384">
+        <ele>58.98795</ele>
+      </trkpt>
+      <trkpt lat="55.606902" lon="-4.381623">
+        <ele>51.58278</ele>
+      </trkpt>
+      <trkpt lat="55.606627" lon="-4.381423">
+        <ele>50.3995</ele>
+      </trkpt>
+      <trkpt lat="55.606387" lon="-4.381199">
+        <ele>49.49598</ele>
+      </trkpt>
+      <trkpt lat="55.605766" lon="-4.380647">
+        <ele>47.58831</ele>
+      </trkpt>
+      <trkpt lat="55.605501" lon="-4.38044">
+        <ele>47.63232</ele>
+      </trkpt>
+      <trkpt lat="55.60504" lon="-4.380161">
+        <ele>47.68041</ele>
+      </trkpt>
+      <trkpt lat="55.604226" lon="-4.379683">
+        <ele>47.55796</ele>
+      </trkpt>
+      <trkpt lat="55.603993" lon="-4.379611">
+        <ele>47.25494</ele>
+      </trkpt>
+      <trkpt lat="55.603855" lon="-4.379512">
+        <ele>47.15131</ele>
+      </trkpt>
+      <trkpt lat="55.603442" lon="-4.37883">
+        <ele>46.73225</ele>
+      </trkpt>
+      <trkpt lat="55.603335" lon="-4.378396">
+        <ele>46.67355</ele>
+        <name>A71, East Ayrshire</name>
+        <desc>Turn sharp right onto A71</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.603329" lon="-4.378723">
+        <ele>46.67018</ele>
+      </trkpt>
+      <trkpt lat="55.603269" lon="-4.378948">
+        <ele>46.73717</ele>
+      </trkpt>
+      <trkpt lat="55.603011" lon="-4.379581">
+        <ele>47.15514</ele>
+      </trkpt>
+      <trkpt lat="55.60278" lon="-4.379846">
+        <ele>47.29073</ele>
+      </trkpt>
+      <trkpt lat="55.602406" lon="-4.379906">
+        <ele>47.23372</ele>
+      </trkpt>
+      <trkpt lat="55.60135" lon="-4.379844">
+        <ele>49.4942</ele>
+      </trkpt>
+      <trkpt lat="55.601017" lon="-4.379855">
+        <ele>48.31279</ele>
+      </trkpt>
+      <trkpt lat="55.599545" lon="-4.379753">
+        <ele>52.37816</ele>
+      </trkpt>
+      <trkpt lat="55.598725" lon="-4.379767">
+        <ele>50.88817</ele>
+      </trkpt>
+      <trkpt lat="55.598509" lon="-4.379931">
+        <ele>51.10614</ele>
+        <name>Barr Castle, East Ayrshire</name>
+        <desc>FINISH</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>13</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
