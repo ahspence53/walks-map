@@ -84,8 +84,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.322176,
-          55.670857
+          -4.322133,
+          55.669477
         ]
       },
       "properties": {
@@ -188,8 +188,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.265206,
-          55.619394
+          -4.26012,
+          55.618764
         ]
       },
       "properties": {
@@ -396,8 +396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.443197,
-          55.784417
+          -4.43234,
+          55.774835
         ]
       },
       "properties": {
@@ -422,8 +422,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.527826,
-          55.690843
+          -4.55615,
+          55.685811
         ]
       },
       "properties": {
@@ -682,8 +682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.565849,
-          55.478464
+          -4.554949,
+          55.474743
         ]
       },
       "properties": {
@@ -994,8 +994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.358783,
-          55.610717
+          -4.354405,
+          55.617988
         ]
       },
       "properties": {
@@ -1044,11 +1044,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.857502,
-          55.681746
-        ],
-        "type": "Point"
+          -4.896855,
+          55.697833
+        ]
       },
       "properties": {
         "name": "Walk 41. Seamill, Goldenberry Hill and Portencross.",
@@ -1072,8 +1072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.4859,
-          55.6207
+          -4.444871,
+          55.65367
         ]
       },
       "properties": {
@@ -1096,11 +1096,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.323571,
-          55.501976
-        ],
-        "type": "Point"
+          -4.338226,
+          55.497138
+        ]
       },
       "properties": {
         "name": "Walk 43. Catrine to Auchinleck House",
@@ -1174,11 +1174,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.379296,
-          55.597311
-        ],
-        "type": "Point"
+          -4.358525,
+          55.582857
+        ]
       },
       "properties": {
         "name": "Walk 46. Galston, Burnanne, Newmilns.",
@@ -1226,11 +1226,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.322112,
-          55.605857
-        ],
-        "type": "Point"
+          -4.312477,
+          55.605142
+        ]
       },
       "properties": {
         "name": "Walk 48. Newmilns and Irvine Valley north",
@@ -1252,11 +1252,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.514737,
-          55.617625
-        ],
-        "type": "Point"
+          -4.59486,
+          55.61731
+        ]
       },
       "properties": {
         "name": "Walk 49. Kilmarnock, Springside and Perceton Row",
@@ -1278,11 +1278,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.3108,
-          55.7244
-        ],
-        "type": "Point"
+          -4.315567,
+          55.711761
+        ]
       },
       "properties": {
         "name": "Walk 50. Whitelee Dunwan Hill.",
@@ -1304,11 +1304,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.281106,
-          55.607166
-        ],
-        "type": "Point"
+          -4.252353,
+          55.616583
+        ]
       },
       "properties": {
         "name": "Walk 51. Darvel to Loudoun Hill.",
@@ -1384,8 +1384,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.556408,
-          55.644613
+          -4.58014,
+          55.6427
         ]
       },
       "properties": {
@@ -1408,11 +1408,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.526753,
-          55.472505
-        ],
-        "type": "Point"
+          -4.544992,
+          55.466107
+        ]
       },
       "properties": {
         "name": "Walk 55. Annbank and Stair.",
@@ -1434,11 +1434,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.226303,
-          55.584555
-        ],
-        "type": "Point"
+          -4.201927,
+          55.605118
+        ]
       },
       "properties": {
         "name": "Walk 56. Windy Wizen to Drumclog outdoor centre",
@@ -1460,11 +1460,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.686098,
-          55.355062
-        ],
-        "type": "Point"
+          -4.683437,
+          55.348865
+        ]
       },
       "properties": {
         "name": "Walk 57. Maybole hills.",
@@ -1486,11 +1486,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.325373,
-          55.606269
-        ],
-        "type": "Point"
+          -4.336209,
+          55.601384
+        ]
       },
       "properties": {
         "name": "Walk 58. Irvine Valley Woodlands.",
@@ -1540,8 +1540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.564776,
-          55.550097
+          -4.574647,
+          55.539098
         ]
       },
       "properties": {
@@ -1616,11 +1616,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.282672,
-          55.607142
-        ],
-        "type": "Point"
+          -4.273381,
+          55.595516
+        ]
       },
       "properties": {
         "name": "Walk 63. Darvel, Priestland, Newmilns",
@@ -1644,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.775019,
-          55.321918
+          -4.76326,
+          55.327997
         ]
       },
       "properties": {
@@ -1668,11 +1668,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.518385,
-          55.680766
-        ],
-        "type": "Point"
+          -4.497786,
+          55.678407
+        ]
       },
       "properties": {
         "name": "Walk 65. Stewarton to Burnfoot reservoir.",
@@ -1694,11 +1694,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.717941,
-          55.711737
-        ],
-        "type": "Point"
+          -4.733176,
+          55.709561
+        ]
       },
       "properties": {
         "name": "Walk 66. Dalry to. Community Windfarm",
@@ -1720,11 +1720,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.671593,
-          55.643112
-        ],
-        "type": "Point"
+          -4.610052,
+          55.656551
+        ]
       },
       "properties": {
         "name": "Walk 67. Eglinton woods, Torranyard and Girdle Toll",
@@ -1746,11 +1746,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.542675,
-          55.623707
-        ],
-        "type": "Point"
+          -4.546752,
+          55.638437
+        ]
       },
       "properties": {
         "name": "Walk 68. Knockentiber, Middleton, Cunninghamhead",
@@ -1772,11 +1772,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -3.904438,
-          55.741076
-        ],
-        "type": "Point"
+          -3.903966,
+          55.735785
+        ]
       },
       "properties": {
         "name": "Walk 69. River Clyde walkway from Cardies Bridge.",
@@ -1798,11 +1798,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.373288,
-          55.515597
-        ],
-        "type": "Point"
+          -4.358654,
+          55.532371
+        ]
       },
       "properties": {
         "name": "Walk 70. Mauchline to Galston",
@@ -1824,11 +1824,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.466157,
-          55.604439
-        ],
-        "type": "Point"
+          -4.436245,
+          55.614959
+        ]
       },
       "properties": {
         "name": "Walk 71. Crookedholm to Ladyton Loch",
@@ -1850,11 +1850,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.603186,
-          55.578878
-        ],
-        "type": "Point"
+          -4.583874,
+          55.571018
+        ]
       },
       "properties": {
         "name": "Walk 72. Dundonald and Smugglers Trail",
@@ -1876,11 +1876,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.484911,
-          55.623005
-        ],
-        "type": "Point"
+          -4.443798,
+          55.641271
+        ]
       },
       "properties": {
         "name": "Walk 73. Dean Castle, Craufurdland and Bringan",
@@ -1902,11 +1902,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.28057,
-          55.608936
-        ],
-        "type": "Point"
+          -4.218922,
+          55.61491
+        ]
       },
       "properties": {
         "name": "Walk 73.5 Darvel, Long Cairn walk, Loudoun Hill",
