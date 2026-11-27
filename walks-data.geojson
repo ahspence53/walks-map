@@ -316,11 +316,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.31907,
-          55.501122
-        ],
-        "type": "Point"
+          -4.282329,
+          55.515937
+        ]
       },
       "properties": {
         "name": "Walk 13. Catrine to Blacksidend",
@@ -342,11 +342,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.48873,
-          55.590424
-        ],
-        "type": "Point"
+          -4.485898,
+          55.580807
+        ]
       },
       "properties": {
         "name": "Walk 14. Craigie and Wallace's monument (Barnweil)",
@@ -5017,6 +5017,32 @@
         "rating": "112",
         "difficulty": "Moderately Strenuous",
         "photo": "<a href=\"https://lh3.googleusercontent.com/pw/AP1GczOCy2YjgIw-eVMAEYBT8KOAJY9X6RW53hG2UkRKi4E_NtTPHCqIFfeeYd9cXtblkKVYypaf0D07yyug3QadUpkB4ff2ELYx4t7oj21Ykabnl0LPWHuy=w2400?source=screenshot.guru\"> <img src=\"https://lh3.googleusercontent.com/pw/AP1GczOCy2YjgIw-eVMAEYBT8KOAJY9X6RW53hG2UkRKi4E_NtTPHCqIFfeeYd9cXtblkKVYypaf0D07yyug3QadUpkB4ff2ELYx4t7oj21Ykabnl0LPWHuy=w600-h315-p-k\" /> </a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.777293,
+          55.328717
+        ]
+      },
+      "properties": {
+        "name": "Walk 186. Kirkoswald",
+        "description": "Kirkoswald",
+        "walkNumber": 186,
+        "year": "2020",
+        "walkPage": "https://thewalks.weebly.com/186",
+        "outdooractive": "https://out.ac/ImMNLV",
+        "distance": "7",
+        "time": "3.1",
+        "ascent": "696",
+        "descent": "696",
+        "date": "26/11/26",
+        "rating": "99",
+        "difficulty": "Moderate",
+        "photo": "<a href=\"https://lh3.googleusercontent.com/pw/AP1GczOCHwhxc4l6E5yEshp2LTwHXlGICbgV3dJ0MKsa4bgOuz722p9pqNo_BN59RZDIc-yTbqkQRatYrJNg5MYXMMMJuBgTXPfOVDoUDlkLKhzmNvxBopBd=w2400?source=screenshot.guru\"> <img src=\"https://lh3.googleusercontent.com/pw/AP1GczOCHwhxc4l6E5yEshp2LTwHXlGICbgV3dJ0MKsa4bgOuz722p9pqNo_BN59RZDIc-yTbqkQRatYrJNg5MYXMMMJuBgTXPfOVDoUDlkLKhzmNvxBopBd=w600-h315-p-k\" /> </a>"
       }
     }
   ]
