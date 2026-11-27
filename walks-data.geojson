@@ -266,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.509974,
-          55.585622
+          -4.519758,
+          55.574366
         ]
       },
       "properties": {
@@ -318,8 +318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.282329,
-          55.515937
+          -4.26321,
+          55.529116
         ]
       },
       "properties": {
@@ -368,11 +368,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.378631,
-          55.600002
-        ],
-        "type": "Point"
+          -4.393394,
+          55.607893
+        ]
       },
       "properties": {
         "name": "Walk 15. Galston, Loudoun church, Newmilns",
@@ -396,8 +396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.450836,
-          55.778504
+          -4.443197,
+          55.784417
         ]
       },
       "properties": {
@@ -420,11 +420,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.521024,
-          55.67969
-        ],
-        "type": "Point"
+          -4.527826,
+          55.690843
+        ]
       },
       "properties": {
         "name": "Walk 17. Stewarton to Dunlop.",
@@ -446,11 +446,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.460535,
-          55.605384
-        ],
-        "type": "Point"
+          -4.40423,
+          55.632987
+        ]
       },
       "properties": {
         "name": "Walk 18. Hurlford to Moscow.",
@@ -472,11 +472,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.590139,
-          55.578393
-        ],
-        "type": "Point"
+          -4.624386,
+          55.550922
+        ]
       },
       "properties": {
         "name": "Walk 19. Smugglers trail",
@@ -500,8 +500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.506969,
-          55.583924
+          -4.538469,
+          55.557088
         ]
       },
       "properties": {
@@ -628,11 +628,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.298058,
-          55.510798
-        ],
-        "type": "Point"
+          -4.342089,
+          55.505791
+        ]
       },
       "properties": {
         "name": "Walk 25. Sorn to Failford",
@@ -680,11 +680,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.517612,
-          55.478416
-        ],
-        "type": "Point"
+          -4.565849,
+          55.478464
+        ]
       },
       "properties": {
         "name": "Walk 27. Oswald's bridge to Ayr",
@@ -732,11 +732,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.323978,
-          55.606233
-        ],
-        "type": "Point"
+          -4.302692,
+          55.584118
+        ]
       },
       "properties": {
         "name": "Walk 29. Gallow Law and Lanfine.",
@@ -758,11 +758,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.643869,
-          55.453065
-        ],
-        "type": "Point"
+          -4.673824,
+          55.435247
+        ]
       },
       "properties": {
         "name": "Walk 30. Blue bonnet trail Ayr",
@@ -784,11 +784,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.323506,
-          55.500201
-        ],
-        "type": "Point"
+          -4.281836,
+          55.50516
+        ]
       },
       "properties": {
         "name": "Walk 31. Catrine and Sorn",
@@ -810,11 +810,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.690046,
-          55.352623
-        ],
-        "type": "Point"
+          -4.707212,
+          55.367698
+        ]
       },
       "properties": {
         "name": "Walk 32. Maybole to Dunure hill walk",
@@ -914,11 +914,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.488773,
-          55.592897
-        ],
-        "type": "Point"
+          -4.454956,
+          55.563981
+        ]
       },
       "properties": {
         "name": "Walk 36. Bellfield to Craigie Villaget",
@@ -940,11 +940,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.665499,
-          55.641562
-        ],
-        "type": "Point"
+          -4.641037,
+          55.641077
+        ]
       },
       "properties": {
         "name": "Walk 37. Eglinton extended.",
@@ -966,11 +966,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.280119,
-          55.608414
-        ],
-        "type": "Point"
+          -4.204373,
+          55.612317
+        ]
       },
       "properties": {
         "name": "Walk 38. Darvel extended.",
@@ -992,11 +992,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.379725,
-          55.598535
-        ],
-        "type": "Point"
+          -4.358783,
+          55.610717
+        ]
       },
       "properties": {
         "name": "Walk 39. Galston extended.",
@@ -1018,11 +1018,11 @@
     {
       "type": "Feature",
       "geometry": {
+        "type": "Point",
         "coordinates": [
-          -4.768753,
-          55.37638
-        ],
-        "type": "Point"
+          -4.743433,
+          55.360527
+        ]
       },
       "properties": {
         "name": "Walk 40. Croy and Mochrum Hill",
@@ -1644,8 +1644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.784374,
-          55.329535
+          -4.775019,
+          55.321918
         ]
       },
       "properties": {
@@ -2580,8 +2580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.494267,
-          55.55903
+          -4.510059,
+          55.541842
         ]
       },
       "properties": {
@@ -4712,8 +4712,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.769214,
-          55.374802
+          -4.767938,
+          55.369039
         ]
       },
       "properties": {
