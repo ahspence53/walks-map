@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Kirkoswald</name>
+    <author>
+      <name>Alex Spence - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/357455032"/>
+    <time>2026-11-27T08:45:47.697Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Kirkoswald</name>
+    <desc>Walk frrom Kirkoswald toward Daily - linear walk.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="55.329565" lon="-4.776417">
+        <ele>112.37534</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Start on</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.329421" lon="-4.776832">
+        <ele>111.86506</ele>
+      </trkpt>
+      <trkpt lat="55.329535" lon="-4.776952">
+        <ele>109.74263</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.329357" lon="-4.777382">
+        <ele>108.61046</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Turn left onto Kirkbrae</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.329157" lon="-4.777352">
+        <ele>111.59844</ele>
+      </trkpt>
+      <trkpt lat="55.328925" lon="-4.77747">
+        <ele>115.7584</ele>
+      </trkpt>
+      <trkpt lat="55.328724" lon="-4.777481">
+        <ele>117.66733</ele>
+      </trkpt>
+      <trkpt lat="55.328602" lon="-4.777341">
+        <ele>118.18307</ele>
+      </trkpt>
+      <trkpt lat="55.328492" lon="-4.776934">
+        <ele>118.64823</ele>
+      </trkpt>
+      <trkpt lat="55.328266" lon="-4.776397">
+        <ele>118.18423</ele>
+      </trkpt>
+      <trkpt lat="55.328004" lon="-4.775989">
+        <ele>113.17528</ele>
+      </trkpt>
+      <trkpt lat="55.327608" lon="-4.775413">
+        <ele>106.07152</ele>
+      </trkpt>
+      <trkpt lat="55.327547" lon="-4.775285">
+        <ele>103.33644</ele>
+      </trkpt>
+      <trkpt lat="55.327441" lon="-4.774635">
+        <ele>96.77786</ele>
+      </trkpt>
+      <trkpt lat="55.327315" lon="-4.774421">
+        <ele>95.39634</ele>
+      </trkpt>
+      <trkpt lat="55.327159" lon="-4.774306">
+        <ele>94.37899</ele>
+      </trkpt>
+      <trkpt lat="55.327024" lon="-4.774327">
+        <ele>93.99549</ele>
+      </trkpt>
+      <trkpt lat="55.326758" lon="-4.774807">
+        <ele>95.9317</ele>
+      </trkpt>
+      <trkpt lat="55.32658" lon="-4.774973">
+        <ele>95.65032</ele>
+      </trkpt>
+      <trkpt lat="55.326288" lon="-4.77482">
+        <ele>96.10728</ele>
+      </trkpt>
+      <trkpt lat="55.324462" lon="-4.772338">
+        <ele>124.75981</ele>
+      </trkpt>
+      <trkpt lat="55.32413" lon="-4.771907">
+        <ele>131.05382</ele>
+      </trkpt>
+      <trkpt lat="55.322178" lon="-4.769373">
+        <ele>147.24604</ele>
+      </trkpt>
+      <trkpt lat="55.322033" lon="-4.769253">
+        <ele>147.9458</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.322004" lon="-4.769033">
+        <ele>149.22825</ele>
+      </trkpt>
+      <trkpt lat="55.3221" lon="-4.770053">
+        <ele>146.56089</ele>
+      </trkpt>
+      <trkpt lat="55.322118" lon="-4.770395">
+        <ele>145.87696</ele>
+      </trkpt>
+      <trkpt lat="55.322111" lon="-4.770864">
+        <ele>144.88112</ele>
+      </trkpt>
+      <trkpt lat="55.321985" lon="-4.772256">
+        <ele>142.75049</ele>
+      </trkpt>
+      <trkpt lat="55.321716" lon="-4.776094">
+        <ele>136.76089</ele>
+      </trkpt>
+      <trkpt lat="55.321646" lon="-4.776933">
+        <ele>136.61984</ele>
+      </trkpt>
+      <trkpt lat="55.321572" lon="-4.77761">
+        <ele>135.1462</ele>
+      </trkpt>
+      <trkpt lat="55.321646" lon="-4.776933">
+        <ele>136.61984</ele>
+      </trkpt>
+      <trkpt lat="55.321716" lon="-4.776094">
+        <ele>136.76089</ele>
+      </trkpt>
+      <trkpt lat="55.321985" lon="-4.772256">
+        <ele>142.75049</ele>
+      </trkpt>
+      <trkpt lat="55.322111" lon="-4.770864">
+        <ele>144.88112</ele>
+      </trkpt>
+      <trkpt lat="55.322118" lon="-4.770395">
+        <ele>145.87696</ele>
+      </trkpt>
+      <trkpt lat="55.3221" lon="-4.770053">
+        <ele>146.56089</ele>
+      </trkpt>
+      <trkpt lat="55.322033" lon="-4.769253">
+        <ele>147.9458</ele>
+      </trkpt>
+      <trkpt lat="55.321967" lon="-4.768748">
+        <ele>149.30051</ele>
+      </trkpt>
+      <trkpt lat="55.321898" lon="-4.768338">
+        <ele>151.03702</ele>
+      </trkpt>
+      <trkpt lat="55.321822" lon="-4.767981">
+        <ele>152.56497</ele>
+      </trkpt>
+      <trkpt lat="55.32164" lon="-4.767258">
+        <ele>154.89547</ele>
+      </trkpt>
+      <trkpt lat="55.321231" lon="-4.765702">
+        <ele>158.68369</ele>
+      </trkpt>
+      <trkpt lat="55.320922" lon="-4.764688">
+        <ele>162.58412</ele>
+      </trkpt>
+      <trkpt lat="55.320771" lon="-4.764387">
+        <ele>163.14259</ele>
+      </trkpt>
+      <trkpt lat="55.320626" lon="-4.764198">
+        <ele>163.34267</ele>
+      </trkpt>
+      <trkpt lat="55.320021" lon="-4.763545">
+        <ele>164.12471</ele>
+      </trkpt>
+      <trkpt lat="55.31975" lon="-4.763229">
+        <ele>166.36422</ele>
+      </trkpt>
+      <trkpt lat="55.319531" lon="-4.762957">
+        <ele>167.08209</ele>
+      </trkpt>
+      <trkpt lat="55.319301" lon="-4.762628">
+        <ele>167.6726</ele>
+      </trkpt>
+      <trkpt lat="55.319046" lon="-4.762174">
+        <ele>168.24311</ele>
+      </trkpt>
+      <trkpt lat="55.31896" lon="-4.761984">
+        <ele>168.13179</ele>
+      </trkpt>
+      <trkpt lat="55.318734" lon="-4.761245">
+        <ele>168.6467</ele>
+      </trkpt>
+      <trkpt lat="55.318645" lon="-4.760908">
+        <ele>168.83348</ele>
+      </trkpt>
+      <trkpt lat="55.318254" lon="-4.759019">
+        <ele>163.42483</ele>
+      </trkpt>
+      <trkpt lat="55.318171" lon="-4.758725">
+        <ele>163.52976</ele>
+      </trkpt>
+      <trkpt lat="55.318093" lon="-4.758519">
+        <ele>163.89</ele>
+      </trkpt>
+      <trkpt lat="55.317877" lon="-4.758101">
+        <ele>164.61739</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Turn right</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.317808" lon="-4.758092">
+        <ele>164.67388</ele>
+      </trkpt>
+      <trkpt lat="55.316863" lon="-4.75746">
+        <ele>167.09863</ele>
+      </trkpt>
+      <trkpt lat="55.316175" lon="-4.757056">
+        <ele>165.2231</ele>
+      </trkpt>
+      <trkpt lat="55.3157" lon="-4.756834">
+        <ele>165.3745</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>Turn left</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="55.315657" lon="-4.756031">
+        <ele>166.7498</ele>
+      </trkpt>
+      <trkpt lat="55.315591" lon="-4.755271">
+        <ele>168.07444</ele>
+      </trkpt>
+      <trkpt lat="55.315521" lon="-4.754611">
+        <ele>169.69171</ele>
+      </trkpt>
+      <trkpt lat="55.315457" lon="-4.754222">
+        <ele>169.40811</ele>
+      </trkpt>
+      <trkpt lat="55.315377" lon="-4.753848">
+        <ele>169.26079</ele>
+      </trkpt>
+      <trkpt lat="55.315052" lon="-4.752453">
+        <ele>168.53138</ele>
+      </trkpt>
+      <trkpt lat="55.314565" lon="-4.750435">
+        <ele>165.41053</ele>
+      </trkpt>
+      <trkpt lat="55.314518" lon="-4.750182">
+        <ele>165.64022</ele>
+      </trkpt>
+      <trkpt lat="55.31447" lon="-4.749716">
+        <ele>164.81064</ele>
+      </trkpt>
+      <trkpt lat="55.314431" lon="-4.748475">
+        <ele>164.89196</ele>
+      </trkpt>
+      <trkpt lat="55.314293" lon="-4.746458">
+        <ele>165.40954</ele>
+      </trkpt>
+      <trkpt lat="55.314199" lon="-4.745849">
+        <ele>167.1827</ele>
+      </trkpt>
+      <trkpt lat="55.314109" lon="-4.745453">
+        <ele>168.09874</ele>
+      </trkpt>
+      <trkpt lat="55.313963" lon="-4.744899">
+        <ele>167.76609</ele>
+      </trkpt>
+      <trkpt lat="55.313178" lon="-4.742167">
+        <ele>174.07823</ele>
+      </trkpt>
+      <trkpt lat="55.312727" lon="-4.740288">
+        <ele>183.08236</ele>
+      </trkpt>
+      <trkpt lat="55.312638" lon="-4.739971">
+        <ele>185.09041</ele>
+      </trkpt>
+      <trkpt lat="55.312455" lon="-4.739405">
+        <ele>188.4905</ele>
+      </trkpt>
+      <trkpt lat="55.312325" lon="-4.739073">
+        <ele>190.09785</ele>
+      </trkpt>
+      <trkpt lat="55.312048" lon="-4.738662">
+        <ele>192.90858</ele>
+      </trkpt>
+      <trkpt lat="55.311747" lon="-4.738313">
+        <ele>194.49271</ele>
+      </trkpt>
+      <trkpt lat="55.311623" lon="-4.738134">
+        <ele>195.45609</ele>
+      </trkpt>
+      <trkpt lat="55.31136" lon="-4.73731">
+        <ele>200.74662</ele>
+      </trkpt>
+      <trkpt lat="55.31127" lon="-4.737046">
+        <ele>201.95874</ele>
+      </trkpt>
+      <trkpt lat="55.311164" lon="-4.736776">
+        <ele>202.64663</ele>
+      </trkpt>
+      <trkpt lat="55.31075" lon="-4.735812">
+        <ele>204.7034</ele>
+      </trkpt>
+      <trkpt lat="55.310432" lon="-4.735049">
+        <ele>206.12905</ele>
+      </trkpt>
+      <trkpt lat="55.310077" lon="-4.734253">
+        <ele>209.98689</ele>
+      </trkpt>
+      <trkpt lat="55.309449" lon="-4.732905">
+        <ele>215.93893</ele>
+      </trkpt>
+      <trkpt lat="55.309345" lon="-4.732618">
+        <ele>217.05603</ele>
+      </trkpt>
+      <trkpt lat="55.309269" lon="-4.73233">
+        <ele>218.13344</ele>
+      </trkpt>
+      <trkpt lat="55.309191" lon="-4.731968">
+        <ele>219.47394</ele>
+      </trkpt>
+      <trkpt lat="55.309112" lon="-4.731542">
+        <ele>220.97713</ele>
+      </trkpt>
+      <trkpt lat="55.308974" lon="-4.730692">
+        <ele>221.94556</ele>
+      </trkpt>
+      <trkpt lat="55.308898" lon="-4.730287">
+        <ele>222.0161</ele>
+      </trkpt>
+      <trkpt lat="55.308821" lon="-4.729908">
+        <ele>222.42939</ele>
+      </trkpt>
+      <trkpt lat="55.308723" lon="-4.729515">
+        <ele>222.84675</ele>
+      </trkpt>
+      <trkpt lat="55.308524" lon="-4.728882">
+        <ele>224.50648</ele>
+      </trkpt>
+      <trkpt lat="55.308085" lon="-4.727755">
+        <ele>228.59919</ele>
+      </trkpt>
+      <trkpt lat="55.307372" lon="-4.725883">
+        <ele>230.98448</ele>
+      </trkpt>
+      <trkpt lat="55.307134" lon="-4.725331">
+        <ele>228.16927</ele>
+      </trkpt>
+      <trkpt lat="55.307029" lon="-4.725148">
+        <ele>226.80129</ele>
+      </trkpt>
+      <trkpt lat="55.306806" lon="-4.724817">
+        <ele>224.82427</ele>
+      </trkpt>
+      <trkpt lat="55.306117" lon="-4.723933">
+        <ele>216.86747</ele>
+      </trkpt>
+      <trkpt lat="55.306008" lon="-4.723813">
+        <ele>215.67009</ele>
+      </trkpt>
+      <trkpt lat="55.305839" lon="-4.723691">
+        <ele>213.59047</ele>
+      </trkpt>
+      <trkpt lat="55.305578" lon="-4.723635">
+        <ele>210.79811</ele>
+      </trkpt>
+      <trkpt lat="55.305233" lon="-4.723676">
+        <ele>206.94513</ele>
+      </trkpt>
+      <trkpt lat="55.304984" lon="-4.723873">
+        <ele>204.29386</ele>
+      </trkpt>
+      <trkpt lat="55.304654" lon="-4.724297">
+        <ele>201.15461</ele>
+      </trkpt>
+      <trkpt lat="55.304438" lon="-4.724609">
+        <ele>199.37518</ele>
+      </trkpt>
+      <trkpt lat="55.304212" lon="-4.724755">
+        <ele>198.5479</ele>
+      </trkpt>
+      <trkpt lat="55.30409" lon="-4.72476">
+        <ele>197.95339</ele>
+      </trkpt>
+      <trkpt lat="55.303985" lon="-4.724713">
+        <ele>197.10477</ele>
+      </trkpt>
+      <trkpt lat="55.302971" lon="-4.723689">
+        <ele>185.39312</ele>
+      </trkpt>
+      <trkpt lat="55.302326" lon="-4.72378">
+        <ele>179.48445</ele>
+      </trkpt>
+      <trkpt lat="55.302971" lon="-4.723689">
+        <ele>185.39312</ele>
+      </trkpt>
+      <trkpt lat="55.303985" lon="-4.724713">
+        <ele>197.10477</ele>
+      </trkpt>
+      <trkpt lat="55.304136" lon="-4.724766">
+        <ele>198.26106</ele>
+      </trkpt>
+      <trkpt lat="55.304438" lon="-4.724609">
+        <ele>199.37518</ele>
+      </trkpt>
+      <trkpt lat="55.304645" lon="-4.724309">
+        <ele>201.08282</ele>
+      </trkpt>
+      <trkpt lat="55.304873" lon="-4.724011">
+        <ele>203.47313</ele>
+      </trkpt>
+      <trkpt lat="55.305115" lon="-4.723751">
+        <ele>205.55191</ele>
+      </trkpt>
+      <trkpt lat="55.305351" lon="-4.723646">
+        <ele>208.12776</ele>
+      </trkpt>
+      <trkpt lat="55.305578" lon="-4.723635">
+        <ele>210.79811</ele>
+      </trkpt>
+      <trkpt lat="55.305747" lon="-4.723656">
+        <ele>212.37385</ele>
+      </trkpt>
+      <trkpt lat="55.306008" lon="-4.723813">
+        <ele>215.67009</ele>
+      </trkpt>
+      <trkpt lat="55.306117" lon="-4.723933">
+        <ele>216.86747</ele>
+      </trkpt>
+      <trkpt lat="55.306806" lon="-4.724817">
+        <ele>224.82427</ele>
+      </trkpt>
+      <trkpt lat="55.307029" lon="-4.725148">
+        <ele>226.80129</ele>
+      </trkpt>
+      <trkpt lat="55.307134" lon="-4.725331">
+        <ele>228.16927</ele>
+      </trkpt>
+      <trkpt lat="55.307372" lon="-4.725883">
+        <ele>230.98448</ele>
+      </trkpt>
+      <trkpt lat="55.308085" lon="-4.727755">
+        <ele>228.59919</ele>
+      </trkpt>
+      <trkpt lat="55.308524" lon="-4.728882">
+        <ele>224.50648</ele>
+      </trkpt>
+      <trkpt lat="55.308723" lon="-4.729515">
+        <ele>222.84675</ele>
+      </trkpt>
+      <trkpt lat="55.308821" lon="-4.729908">
+        <ele>222.42939</ele>
+      </trkpt>
+      <trkpt lat="55.308898" lon="-4.730287">
+        <ele>222.0161</ele>
+      </trkpt>
+      <trkpt lat="55.308974" lon="-4.730692">
+        <ele>221.94556</ele>
+      </trkpt>
+      <trkpt lat="55.309112" lon="-4.731542">
+        <ele>220.97713</ele>
+      </trkpt>
+      <trkpt lat="55.309191" lon="-4.731968">
+        <ele>219.47394</ele>
+      </trkpt>
+      <trkpt lat="55.309269" lon="-4.73233">
+        <ele>218.13344</ele>
+      </trkpt>
+      <trkpt lat="55.309345" lon="-4.732618">
+        <ele>217.05603</ele>
+      </trkpt>
+      <trkpt lat="55.309449" lon="-4.732905">
+        <ele>215.93893</ele>
+      </trkpt>
+      <trkpt lat="55.310077" lon="-4.734253">
+        <ele>209.98689</ele>
+      </trkpt>
+      <trkpt lat="55.310432" lon="-4.735049">
+        <ele>206.12905</ele>
+      </trkpt>
+      <trkpt lat="55.31075" lon="-4.735812">
+        <ele>204.7034</ele>
+      </trkpt>
+      <trkpt lat="55.311164" lon="-4.736776">
+        <ele>202.64663</ele>
+      </trkpt>
+      <trkpt lat="55.31127" lon="-4.737046">
+        <ele>201.95874</ele>
+      </trkpt>
+      <trkpt lat="55.31136" lon="-4.73731">
+        <ele>200.74662</ele>
+      </trkpt>
+      <trkpt lat="55.311623" lon="-4.738134">
+        <ele>195.45609</ele>
+      </trkpt>
+      <trkpt lat="55.311747" lon="-4.738313">
+        <ele>194.49271</ele>
+      </trkpt>
+      <trkpt lat="55.312048" lon="-4.738662">
+        <ele>192.90858</ele>
+      </trkpt>
+      <trkpt lat="55.312325" lon="-4.739073">
+        <ele>190.09785</ele>
+      </trkpt>
+      <trkpt lat="55.312404" lon="-4.739251">
+        <ele>189.03948</ele>
+      </trkpt>
+      <trkpt lat="55.312638" lon="-4.739971">
+        <ele>185.09041</ele>
+      </trkpt>
+      <trkpt lat="55.312727" lon="-4.740288">
+        <ele>183.08236</ele>
+      </trkpt>
+      <trkpt lat="55.313178" lon="-4.742167">
+        <ele>174.07823</ele>
+      </trkpt>
+      <trkpt lat="55.313963" lon="-4.744899">
+        <ele>167.76609</ele>
+      </trkpt>
+      <trkpt lat="55.314109" lon="-4.745453">
+        <ele>168.09874</ele>
+      </trkpt>
+      <trkpt lat="55.314199" lon="-4.745849">
+        <ele>167.1827</ele>
+      </trkpt>
+      <trkpt lat="55.314293" lon="-4.746458">
+        <ele>165.40954</ele>
+      </trkpt>
+      <trkpt lat="55.314431" lon="-4.748475">
+        <ele>164.89196</ele>
+      </trkpt>
+      <trkpt lat="55.31447" lon="-4.749716">
+        <ele>164.81064</ele>
+      </trkpt>
+      <trkpt lat="55.314518" lon="-4.750182">
+        <ele>165.64022</ele>
+      </trkpt>
+      <trkpt lat="55.314565" lon="-4.750435">
+        <ele>165.41053</ele>
+      </trkpt>
+      <trkpt lat="55.314972" lon="-4.752123">
+        <ele>167.84417</ele>
+      </trkpt>
+      <trkpt lat="55.315377" lon="-4.753848">
+        <ele>169.26079</ele>
+      </trkpt>
+      <trkpt lat="55.315457" lon="-4.754222">
+        <ele>169.40811</ele>
+      </trkpt>
+      <trkpt lat="55.315521" lon="-4.754611">
+        <ele>169.69171</ele>
+      </trkpt>
+      <trkpt lat="55.315591" lon="-4.755271">
+        <ele>168.07444</ele>
+      </trkpt>
+      <trkpt lat="55.315657" lon="-4.756031">
+        <ele>166.7498</ele>
+      </trkpt>
+      <trkpt lat="55.3157" lon="-4.756834">
+        <ele>165.3745</ele>
+      </trkpt>
+      <trkpt lat="55.316175" lon="-4.757056">
+        <ele>165.2231</ele>
+      </trkpt>
+      <trkpt lat="55.316863" lon="-4.75746">
+        <ele>167.09863</ele>
+      </trkpt>
+      <trkpt lat="55.317808" lon="-4.758092">
+        <ele>164.67388</ele>
+      </trkpt>
+      <trkpt lat="55.317877" lon="-4.758101">
+        <ele>164.61739</ele>
+      </trkpt>
+      <trkpt lat="55.318093" lon="-4.758519">
+        <ele>163.89</ele>
+      </trkpt>
+      <trkpt lat="55.318254" lon="-4.759019">
+        <ele>163.42483</ele>
+      </trkpt>
+      <trkpt lat="55.318645" lon="-4.760908">
+        <ele>168.83348</ele>
+      </trkpt>
+      <trkpt lat="55.318734" lon="-4.761245">
+        <ele>168.6467</ele>
+      </trkpt>
+      <trkpt lat="55.31896" lon="-4.761984">
+        <ele>168.13179</ele>
+      </trkpt>
+      <trkpt lat="55.319046" lon="-4.762174">
+        <ele>168.24311</ele>
+      </trkpt>
+      <trkpt lat="55.319301" lon="-4.762628">
+        <ele>167.6726</ele>
+      </trkpt>
+      <trkpt lat="55.319531" lon="-4.762957">
+        <ele>167.08209</ele>
+      </trkpt>
+      <trkpt lat="55.31975" lon="-4.763229">
+        <ele>166.36422</ele>
+      </trkpt>
+      <trkpt lat="55.320021" lon="-4.763545">
+        <ele>164.12471</ele>
+      </trkpt>
+      <trkpt lat="55.320626" lon="-4.764198">
+        <ele>163.34267</ele>
+      </trkpt>
+      <trkpt lat="55.320771" lon="-4.764387">
+        <ele>163.14259</ele>
+      </trkpt>
+      <trkpt lat="55.320922" lon="-4.764688">
+        <ele>162.58412</ele>
+      </trkpt>
+      <trkpt lat="55.321231" lon="-4.765702">
+        <ele>158.68369</ele>
+      </trkpt>
+      <trkpt lat="55.321703" lon="-4.767496">
+        <ele>153.60701</ele>
+      </trkpt>
+      <trkpt lat="55.321822" lon="-4.767981">
+        <ele>152.56497</ele>
+      </trkpt>
+      <trkpt lat="55.321898" lon="-4.768338">
+        <ele>151.03702</ele>
+      </trkpt>
+      <trkpt lat="55.321967" lon="-4.768748">
+        <ele>149.30051</ele>
+      </trkpt>
+      <trkpt lat="55.322033" lon="-4.769253">
+        <ele>147.9458</ele>
+      </trkpt>
+      <trkpt lat="55.322178" lon="-4.769373">
+        <ele>147.24604</ele>
+      </trkpt>
+      <trkpt lat="55.324462" lon="-4.772338">
+        <ele>124.75981</ele>
+      </trkpt>
+      <trkpt lat="55.324855" lon="-4.772875">
+        <ele>117.75224</ele>
+      </trkpt>
+      <trkpt lat="55.326194" lon="-4.774706">
+        <ele>96.55668</ele>
+      </trkpt>
+      <trkpt lat="55.326288" lon="-4.77482">
+        <ele>96.10728</ele>
+      </trkpt>
+      <trkpt lat="55.32658" lon="-4.774973">
+        <ele>95.65032</ele>
+      </trkpt>
+      <trkpt lat="55.326758" lon="-4.774807">
+        <ele>95.9317</ele>
+      </trkpt>
+      <trkpt lat="55.327024" lon="-4.774327">
+        <ele>93.99549</ele>
+      </trkpt>
+      <trkpt lat="55.327159" lon="-4.774306">
+        <ele>94.37899</ele>
+      </trkpt>
+      <trkpt lat="55.327315" lon="-4.774421">
+        <ele>95.39634</ele>
+      </trkpt>
+      <trkpt lat="55.327441" lon="-4.774635">
+        <ele>96.77786</ele>
+      </trkpt>
+      <trkpt lat="55.327547" lon="-4.775285">
+        <ele>103.33644</ele>
+      </trkpt>
+      <trkpt lat="55.327608" lon="-4.775413">
+        <ele>106.07152</ele>
+      </trkpt>
+      <trkpt lat="55.328004" lon="-4.775989">
+        <ele>113.17528</ele>
+      </trkpt>
+      <trkpt lat="55.328266" lon="-4.776397">
+        <ele>118.18423</ele>
+      </trkpt>
+      <trkpt lat="55.328492" lon="-4.776934">
+        <ele>118.64823</ele>
+      </trkpt>
+      <trkpt lat="55.328602" lon="-4.777341">
+        <ele>118.18307</ele>
+      </trkpt>
+      <trkpt lat="55.328724" lon="-4.777481">
+        <ele>117.66733</ele>
+      </trkpt>
+      <trkpt lat="55.328925" lon="-4.77747">
+        <ele>115.7584</ele>
+      </trkpt>
+      <trkpt lat="55.329157" lon="-4.777352">
+        <ele>111.59844</ele>
+      </trkpt>
+      <trkpt lat="55.329357" lon="-4.777382">
+        <ele>108.61046</ele>
+      </trkpt>
+      <trkpt lat="55.329535" lon="-4.776952">
+        <ele>109.74263</ele>
+      </trkpt>
+      <trkpt lat="55.329421" lon="-4.776832">
+        <ele>111.86506</ele>
+      </trkpt>
+      <trkpt lat="55.329567" lon="-4.776412">
+        <ele>112.39696</ele>
+        <name>South Ayrshire, Scotland, United Kingdom</name>
+        <desc>FINISH</desc>
+        <sym>waypointFlagComb</sym>
+        <extensions>
+          <oa:locType>nearWayPoint</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>6</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
